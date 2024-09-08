@@ -1,36 +1,52 @@
 from ucimlrepo import fetch_ucirepo 
 import pandas as pd
+from nodo import Nodo
 
 clasificados = []
+nodo = Nodo(None,None,None)
 
-def algo(data, column):
+def TreeKD(data, column,nodoAct):
     # si la instancia ya está clasificada se almacena y retorna
-    if validarInstancia(data):
+    if validarInstancia(data,nodoAct):
         return 0
     
-    order = data.sort_values(by=data.columns[column%7])
+    name = data.columns[column%7 + 1]
+    order = data.sort_values(by=name)
     mitad = int(order.shape[0]/2)
+    # Añadimos el valor del nodo junto a la columna a la que pertenece
+    nodoAct.value = {name : order[name].iloc[mitad]} 
+    
+    # Creamos los nodos hijos
+    nodoAct.hijoD = Nodo(None,None,None)
+    nodoAct.hijoI = Nodo(None,None,None)
 
     # separamos el dataFrame en dos mitades 
     divisiones = []
     divisiones.append(order.iloc[:mitad])  # Primeras filas
     divisiones.append(order.iloc[mitad:])  # Segundas filas
 
-    # validamos si cada mitad tiene una única instancia
+    # Entramos en recursividad
     for i in range(len(divisiones)):
-        if validarInstancia(divisiones[i]) == False:
-            algo(divisiones[i],column+1)
+        if i == 0:
+            TreeKD(divisiones[i],column+1,nodoAct.hijoI)
+        elif i == 1:
+            TreeKD(divisiones[i],column+1,nodoAct.hijoD)
+           
     pass
 
-def validarInstancia(df) -> bool:
+def validarInstancia(df, nodo_Act) -> bool:
+    # validamos si en ese grupo hay una única instancia y a que clase pertenece
     if df['class'].nunique() == 1 and df['class'].iloc[0] == 'Osmancik':
+        # añadir clase 'Osmancik' al nodo actual 
+        nodo_Act.value = {'class': 'Osmancik'}
         clasificados.append(df)
         return True
     elif  df['class'].nunique() == 1 and df['class'].iloc[0] == 'Cammeo': 
+         # añadir clase 'Cammeo' al nodo actual 
+        nodo_Act.value = {'class': 'Cammeo'}
         clasificados.append(df)
         return True
     else:
-        print('no tiene elementos iguales')
         return False
 
 def main():
@@ -39,11 +55,9 @@ def main():
     Link del set de Datos
     '''
     data = pd.read_csv('./datos.csv')
-    data = data.iloc[:1631]
-    algo(data,0)
-    print(clasificados)
+    data = data.iloc[:1632]
+    TreeKD(data,0,nodo)
     print(len(clasificados))
-
 
 if __name__ == '__main__':
     main()
