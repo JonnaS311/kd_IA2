@@ -1,33 +1,33 @@
 // Árbol
 digraph {
-	0 [label="Area < 12422"]
-	654 [label="Perimeter < 483.6889954"]
+	0 [label="Area < 12421.5"]
+	654 [label="Perimeter < 483.67849735"]
 	0 -> 654
-	1424 [label="Major_Axis_Length < 211.2880554"]
+	1424 [label="Major_Axis_Length < 211.26057435"]
 	654 -> 1424
 	1546 [label="class = Cammeo"]
 	1424 -> 1546
-	1425 [label="Minor_Axis_Length < 91.14713287"]
+	1425 [label="Minor_Axis_Length < 91.14525222"]
 	1424 -> 1425
-	1451 [label="Eccentricity < 0.888902664"]
+	1451 [label="Eccentricity < 0.88889319"]
 	1425 -> 1451
-	1517 [label="Convex_Area < 15255"]
+	1517 [label="Convex_Area < 15240.0"]
 	1451 -> 1517
 	1545 [label="class = Cammeo"]
 	1517 -> 1545
-	1518 [label="Extent < 0.611590207"]
+	1518 [label="Extent < 0.61070731"]
 	1517 -> 1518
-	1528 [label="Area < 14656"]
+	1528 [label="Area < 14640.5"]
 	1518 -> 1528
-	1536 [label="Perimeter < 494.3110046"]
+	1536 [label="Perimeter < 494.0574951"]
 	1528 -> 1536
-	1538 [label="Major_Axis_Length < 207.0927124"]
+	1538 [label="Major_Axis_Length < 206.92323305"]
 	1536 -> 1538
 	1544 [label="class = Cammeo"]
 	1538 -> 1544
-	1539 [label="Minor_Axis_Length < 92.8265686"]
+	1539 [label="Minor_Axis_Length < 92.27877044"]
 	1538 -> 1539
-	1541 [label="Eccentricity < 0.892709136"]
+	1541 [label="Eccentricity < 0.89098567"]
 	1539 -> 1541
 	1543 [label="class = Cammeo"]
 	1541 -> 1543
@@ -37,31 +37,31 @@ digraph {
 	1539 -> 1540
 	1537 [label="class = Cammeo"]
 	1536 -> 1537
-	1529 [label="Perimeter < 490.2470093"]
+	1529 [label="Perimeter < 490.0774994"]
 	1528 -> 1529
 	1535 [label="class = Cammeo"]
 	1529 -> 1535
-	1530 [label="Major_Axis_Length < 203.8588409"]
+	1530 [label="Major_Axis_Length < 203.385025"]
 	1529 -> 1530
 	1534 [label="class = Cammeo"]
 	1530 -> 1534
-	1531 [label="Minor_Axis_Length < 91.2587738"]
+	1531 [label="Minor_Axis_Length < 91.24720001"]
 	1530 -> 1531
 	1533 [label="class = Osmancik"]
 	1531 -> 1533
 	1532 [label="class = Cammeo"]
 	1531 -> 1532
-	1519 [label="Area < 14723"]
+	1519 [label="Area < 14718.0"]
 	1518 -> 1519
-	1521 [label="Perimeter < 495.8989868"]
+	1521 [label="Perimeter < 495.85798645"]
 	1519 -> 1521
 	1527 [label="class = Cammeo"]
 	1521 -> 1527
-	1522 [label="Major_Axis_Length < 205.7198486"]
+	1522 [label="Major_Axis_Length < 205.71674345"]
 	1521 -> 1522
 	1526 [label="class = Cammeo"]
 	1522 -> 1526
-	1523 [label="Minor_Axis_Length < 92.94775391"]
+	1523 [label="Minor_Axis_Length < 92.72374344"]
 	1522 -> 1523
 	1525 [label="class = Cammeo"]
 	1523 -> 1525
@@ -69,25 +69,25 @@ digraph {
 	1523 -> 1524
 	1520 [label="class = Cammeo"]
 	1519 -> 1520
-	1452 [label="Convex_Area < 15536"]
+	1452 [label="Convex_Area < 15526.5"]
 	1451 -> 1452
-	1494 [label="Extent < 0.689212084"]
+	1494 [label="Extent < 0.68730044"]
 	1452 -> 1494
-	1506 [label="Area < 15714"]
+	1506 [label="Area < 15709.5"]
 	1494 -> 1506
 	1516 [label="class = Cammeo"]
 	1506 -> 1516
-	1507 [label="Perimeter < 499.1390076"]
+	1507 [label="Perimeter < 499.05149845"]
 	1506 -> 1507
 	1515 [label="class = Cammeo"]
 	1507 -> 1515
-	1508 [label="Major_Axis_Length < 200.5948334"]
+	1508 [label="Major_Axis_Length < 200.36787415"]
 	1507 -> 1508
 	1514 [label="class = Cammeo"]
 	1508 -> 1514
-	1509 [label="Minor_Axis_Length < 99.11066437"]
+	1509 [label="Minor_Axis_Length < 99.03828812"]
 	1508 -> 1509
-	1511 [label="Eccentricity < 0.865742505"]
+	1511 [label="Eccentricity < 0.85510057"]
 	1509 -> 1511
 	1513 [label="class = Osmancik"]
 	1511 -> 1513
@@ -95,21 +95,21 @@ digraph {
 	1511 -> 1512
 	1510 [label="class = Cammeo"]
 	1509 -> 1510
-	1495 [label="Area < 15609"]
+	1495 [label="Area < 15596.0"]
 	1494 -> 1495
 	1505 [label="class = Cammeo"]
 	1495 -> 1505
-	1496 [label="Perimeter < 499.2659912"]
+	1496 [label="Perimeter < 499.2649994"]
 	1495 -> 1496
-	1498 [label="Major_Axis_Length < 207.8468323"]
+	1498 [label="Major_Axis_Length < 207.4490738"]
 	1496 -> 1498
 	1504 [label="class = Cammeo"]
 	1498 -> 1504
-	1499 [label="Minor_Axis_Length < 96.87207794"]
+	1499 [label="Minor_Axis_Length < 96.64468002"]
 	1498 -> 1499
 	1503 [label="class = Cammeo"]
 	1499 -> 1503
-	1500 [label="Eccentricity < 0.88478899"]
+	1500 [label="Eccentricity < 0.8842808"]
 	1499 -> 1500
 	1502 [label="class = Cammeo"]
 	1500 -> 1502
@@ -117,19 +117,19 @@ digraph {
 	1500 -> 1501
 	1497 [label="class = Cammeo"]
 	1496 -> 1497
-	1453 [label="Extent < 0.646407127"]
+	1453 [label="Extent < 0.64448318"]
 	1452 -> 1453
-	1465 [label="Area < 14853"]
+	1465 [label="Area < 14829.0"]
 	1453 -> 1465
-	1479 [label="Perimeter < 488.8659973"]
+	1479 [label="Perimeter < 488.86549375"]
 	1465 -> 1479
-	1487 [label="Major_Axis_Length < 205.21521"]
+	1487 [label="Major_Axis_Length < 204.8782196"]
 	1479 -> 1487
 	1493 [label="class = Cammeo"]
 	1487 -> 1493
-	1488 [label="Minor_Axis_Length < 96.13976288"]
+	1488 [label="Minor_Axis_Length < 95.60958862"]
 	1487 -> 1488
-	1490 [label="Eccentricity < 0.880609214"]
+	1490 [label="Eccentricity < 0.87779853"]
 	1488 -> 1490
 	1492 [label="class = Cammeo"]
 	1490 -> 1492
@@ -137,13 +137,13 @@ digraph {
 	1490 -> 1491
 	1489 [label="class = Cammeo"]
 	1488 -> 1489
-	1480 [label="Major_Axis_Length < 202.4947357"]
+	1480 [label="Major_Axis_Length < 202.02893065"]
 	1479 -> 1480
-	1482 [label="Minor_Axis_Length < 94.12496185"]
+	1482 [label="Minor_Axis_Length < 94.11867904"]
 	1480 -> 1482
 	1486 [label="class = Cammeo"]
 	1482 -> 1486
-	1483 [label="Eccentricity < 0.888243735"]
+	1483 [label="Eccentricity < 0.8876991"]
 	1482 -> 1483
 	1485 [label="class = Cammeo"]
 	1483 -> 1485
@@ -151,45 +151,45 @@ digraph {
 	1483 -> 1484
 	1481 [label="class = Cammeo"]
 	1480 -> 1481
-	1466 [label="Perimeter < 486.4020081"]
+	1466 [label="Perimeter < 486.29049685"]
 	1465 -> 1466
-	1472 [label="Major_Axis_Length < 200.7395172"]
+	1472 [label="Major_Axis_Length < 200.72489165"]
 	1466 -> 1472
 	1478 [label="class = Cammeo"]
 	1472 -> 1478
-	1473 [label="Minor_Axis_Length < 94.84135437"]
+	1473 [label="Minor_Axis_Length < 94.20894623"]
 	1472 -> 1473
 	1477 [label="class = Cammeo"]
 	1473 -> 1477
-	1474 [label="Eccentricity < 0.888103604"]
+	1474 [label="Eccentricity < 0.88638437"]
 	1473 -> 1474
 	1476 [label="class = Cammeo"]
 	1474 -> 1476
 	1475 [label="class = Osmancik"]
 	1474 -> 1475
-	1467 [label="Major_Axis_Length < 201.1537781"]
+	1467 [label="Major_Axis_Length < 198.80252075"]
 	1466 -> 1467
 	1471 [label="class = Cammeo"]
 	1467 -> 1471
-	1468 [label="Minor_Axis_Length < 95.85621643"]
+	1468 [label="Minor_Axis_Length < 93.54951477"]
 	1467 -> 1468
 	1470 [label="class = Cammeo"]
 	1468 -> 1470
 	1469 [label="class = Osmancik"]
 	1468 -> 1469
-	1454 [label="Area < 14675"]
+	1454 [label="Area < 14665.0"]
 	1453 -> 1454
 	1464 [label="class = Cammeo"]
 	1454 -> 1464
-	1455 [label="Perimeter < 486.8999939"]
+	1455 [label="Perimeter < 486.7839966"]
 	1454 -> 1455
-	1457 [label="Major_Axis_Length < 200.1377106"]
+	1457 [label="Major_Axis_Length < 200.01879885"]
 	1455 -> 1457
 	1463 [label="class = Cammeo"]
 	1457 -> 1463
-	1458 [label="Minor_Axis_Length < 92.53504944"]
+	1458 [label="Minor_Axis_Length < 92.4252243"]
 	1457 -> 1458
-	1460 [label="Eccentricity < 0.884250283"]
+	1460 [label="Eccentricity < 0.8787539"]
 	1458 -> 1460
 	1462 [label="class = Osmancik"]
 	1460 -> 1462
@@ -199,27 +199,27 @@ digraph {
 	1458 -> 1459
 	1456 [label="class = Cammeo"]
 	1455 -> 1456
-	1426 [label="Eccentricity < 0.904379904"]
+	1426 [label="Eccentricity < 0.90437695"]
 	1425 -> 1426
-	1428 [label="Convex_Area < 14315"]
+	1428 [label="Convex_Area < 14313.5"]
 	1426 -> 1428
 	1450 [label="class = Cammeo"]
 	1428 -> 1450
-	1429 [label="Extent < 0.575630605"]
+	1429 [label="Extent < 0.57266092"]
 	1428 -> 1429
 	1449 [label="class = Cammeo"]
 	1429 -> 1449
-	1430 [label="Area < 13726"]
+	1430 [label="Area < 13703.5"]
 	1429 -> 1430
-	1440 [label="Perimeter < 488.5820007"]
+	1440 [label="Perimeter < 488.3419952"]
 	1430 -> 1440
-	1442 [label="Major_Axis_Length < 209.6511688"]
+	1442 [label="Major_Axis_Length < 208.652771"]
 	1440 -> 1442
-	1444 [label="Minor_Axis_Length < 85.50136566"]
+	1444 [label="Minor_Axis_Length < 85.46770477"]
 	1442 -> 1444
 	1448 [label="class = Cammeo"]
 	1444 -> 1448
-	1445 [label="Eccentricity < 0.913957775"]
+	1445 [label="Eccentricity < 0.91365978"]
 	1444 -> 1445
 	1447 [label="class = Cammeo"]
 	1445 -> 1447
@@ -229,17 +229,17 @@ digraph {
 	1442 -> 1443
 	1441 [label="class = Cammeo"]
 	1440 -> 1441
-	1431 [label="Perimeter < 488.269989"]
+	1431 [label="Perimeter < 487.10350035"]
 	1430 -> 1431
 	1439 [label="class = Cammeo"]
 	1431 -> 1439
-	1432 [label="Major_Axis_Length < 205.3547516"]
+	1432 [label="Major_Axis_Length < 205.2848511"]
 	1431 -> 1432
-	1434 [label="Minor_Axis_Length < 85.4103241"]
+	1434 [label="Minor_Axis_Length < 84.89881515"]
 	1432 -> 1434
 	1438 [label="class = Cammeo"]
 	1434 -> 1438
-	1435 [label="Eccentricity < 0.915634513"]
+	1435 [label="Eccentricity < 0.9140301"]
 	1434 -> 1435
 	1437 [label="class = Osmancik"]
 	1435 -> 1437
@@ -249,29 +249,29 @@ digraph {
 	1432 -> 1433
 	1427 [label="class = Cammeo"]
 	1426 -> 1427
-	655 [label="Major_Axis_Length < 194.2583313"]
+	655 [label="Major_Axis_Length < 194.22104645"]
 	654 -> 655
-	1073 [label="Minor_Axis_Length < 86.26381683"]
+	1073 [label="Minor_Axis_Length < 86.24332428"]
 	655 -> 1073
-	1259 [label="Eccentricity < 0.895058095"]
+	1259 [label="Eccentricity < 0.89504048"]
 	1073 -> 1259
-	1341 [label="Convex_Area < 13956"]
+	1341 [label="Convex_Area < 13950.0"]
 	1259 -> 1341
-	1403 [label="Extent < 0.637471139"]
+	1403 [label="Extent < 0.63663623"]
 	1341 -> 1403
-	1405 [label="Area < 13880"]
+	1405 [label="Area < 13869.0"]
 	1403 -> 1405
-	1415 [label="Perimeter < 479.7850037"]
+	1415 [label="Perimeter < 479.710495"]
 	1405 -> 1415
 	1423 [label="class = Cammeo"]
 	1415 -> 1423
-	1416 [label="Major_Axis_Length < 203.0225677"]
+	1416 [label="Major_Axis_Length < 202.9080963"]
 	1415 -> 1416
-	1418 [label="Minor_Axis_Length < 88.1075058"]
+	1418 [label="Minor_Axis_Length < 87.7418518"]
 	1416 -> 1418
 	1422 [label="class = Cammeo"]
 	1418 -> 1422
-	1419 [label="Eccentricity < 0.906672835"]
+	1419 [label="Eccentricity < 0.90466109"]
 	1418 -> 1419
 	1421 [label="class = Cammeo"]
 	1419 -> 1421
@@ -279,13 +279,13 @@ digraph {
 	1419 -> 1420
 	1417 [label="class = Cammeo"]
 	1416 -> 1417
-	1406 [label="Perimeter < 481.4159851"]
+	1406 [label="Perimeter < 481.41049195"]
 	1405 -> 1406
-	1408 [label="Major_Axis_Length < 202.7220001"]
+	1408 [label="Major_Axis_Length < 202.0323944"]
 	1406 -> 1408
-	1410 [label="Minor_Axis_Length < 86.98259735"]
+	1410 [label="Minor_Axis_Length < 86.9614563"]
 	1408 -> 1410
-	1412 [label="Eccentricity < 0.906247139"]
+	1412 [label="Eccentricity < 0.90453604"]
 	1410 -> 1412
 	1414 [label="class = Osmancik"]
 	1412 -> 1414
@@ -299,17 +299,17 @@ digraph {
 	1406 -> 1407
 	1404 [label="class = Cammeo"]
 	1403 -> 1404
-	1342 [label="Extent < 0.611134112"]
+	1342 [label="Extent < 0.60924149"]
 	1341 -> 1342
-	1372 [label="Area < 13377"]
+	1372 [label="Area < 13376.0"]
 	1342 -> 1372
-	1388 [label="Perimeter < 474.5929871"]
+	1388 [label="Perimeter < 474.157486"]
 	1372 -> 1388
-	1396 [label="Major_Axis_Length < 200.0530548"]
+	1396 [label="Major_Axis_Length < 199.90470885"]
 	1388 -> 1396
-	1398 [label="Minor_Axis_Length < 86.95225525"]
+	1398 [label="Minor_Axis_Length < 86.80127334"]
 	1396 -> 1398
-	1400 [label="Eccentricity < 0.901787341"]
+	1400 [label="Eccentricity < 0.90134114"]
 	1398 -> 1400
 	1402 [label="class = Cammeo"]
 	1400 -> 1402
@@ -319,13 +319,13 @@ digraph {
 	1398 -> 1399
 	1397 [label="class = Cammeo"]
 	1396 -> 1397
-	1389 [label="Major_Axis_Length < 199.54422"]
+	1389 [label="Major_Axis_Length < 198.8458023"]
 	1388 -> 1389
-	1391 [label="Minor_Axis_Length < 87.68463898"]
+	1391 [label="Minor_Axis_Length < 87.20723343"]
 	1389 -> 1391
 	1395 [label="class = Cammeo"]
 	1391 -> 1395
-	1392 [label="Eccentricity < 0.901133001"]
+	1392 [label="Eccentricity < 0.90088394"]
 	1391 -> 1392
 	1394 [label="class = Cammeo"]
 	1392 -> 1394
@@ -333,15 +333,15 @@ digraph {
 	1392 -> 1393
 	1390 [label="class = Cammeo"]
 	1389 -> 1390
-	1373 [label="Perimeter < 471.0539856"]
+	1373 [label="Perimeter < 470.3829956"]
 	1372 -> 1373
-	1381 [label="Major_Axis_Length < 198.2706604"]
+	1381 [label="Major_Axis_Length < 198.0552826"]
 	1373 -> 1381
 	1387 [label="class = Cammeo"]
 	1381 -> 1387
-	1382 [label="Minor_Axis_Length < 87.42580414"]
+	1382 [label="Minor_Axis_Length < 86.88566971"]
 	1381 -> 1382
-	1384 [label="Eccentricity < 0.896672726"]
+	1384 [label="Eccentricity < 0.89663076"]
 	1382 -> 1384
 	1386 [label="class = Osmancik"]
 	1384 -> 1386
@@ -349,11 +349,11 @@ digraph {
 	1384 -> 1385
 	1383 [label="class = Cammeo"]
 	1382 -> 1383
-	1374 [label="Major_Axis_Length < 196.5089722"]
+	1374 [label="Major_Axis_Length < 195.763855"]
 	1373 -> 1374
-	1376 [label="Minor_Axis_Length < 87.27310944"]
+	1376 [label="Minor_Axis_Length < 87.21733094"]
 	1374 -> 1376
-	1378 [label="Eccentricity < 0.896290362"]
+	1378 [label="Eccentricity < 0.89622906"]
 	1376 -> 1378
 	1380 [label="class = Osmancik"]
 	1378 -> 1380
@@ -363,15 +363,15 @@ digraph {
 	1376 -> 1377
 	1375 [label="class = Cammeo"]
 	1374 -> 1375
-	1343 [label="Area < 13446"]
+	1343 [label="Area < 13430.5"]
 	1342 -> 1343
-	1357 [label="Perimeter < 475.2420044"]
+	1357 [label="Perimeter < 475.18499755"]
 	1343 -> 1357
-	1365 [label="Major_Axis_Length < 199.7535858"]
+	1365 [label="Major_Axis_Length < 199.6027374"]
 	1357 -> 1365
-	1367 [label="Minor_Axis_Length < 87.16551208"]
+	1367 [label="Minor_Axis_Length < 87.10509109"]
 	1365 -> 1367
-	1369 [label="Eccentricity < 0.901811779"]
+	1369 [label="Eccentricity < 0.90129778"]
 	1367 -> 1369
 	1371 [label="class = Osmancik"]
 	1369 -> 1371
@@ -381,13 +381,13 @@ digraph {
 	1367 -> 1368
 	1366 [label="class = Cammeo"]
 	1365 -> 1366
-	1358 [label="Major_Axis_Length < 200.25354"]
+	1358 [label="Major_Axis_Length < 199.4765472"]
 	1357 -> 1358
-	1360 [label="Minor_Axis_Length < 86.7831955"]
+	1360 [label="Minor_Axis_Length < 86.66609574"]
 	1358 -> 1360
 	1364 [label="class = Cammeo"]
 	1360 -> 1364
-	1361 [label="Eccentricity < 0.904154122"]
+	1361 [label="Eccentricity < 0.90335012"]
 	1360 -> 1361
 	1363 [label="class = Osmancik"]
 	1361 -> 1363
@@ -395,15 +395,15 @@ digraph {
 	1361 -> 1362
 	1359 [label="class = Cammeo"]
 	1358 -> 1359
-	1344 [label="Perimeter < 472.1700134"]
+	1344 [label="Perimeter < 471.53851315"]
 	1343 -> 1344
 	1356 [label="class = Cammeo"]
 	1344 -> 1356
-	1345 [label="Major_Axis_Length < 196.6878967"]
+	1345 [label="Major_Axis_Length < 196.5876999"]
 	1344 -> 1345
-	1351 [label="Minor_Axis_Length < 87.38163757"]
+	1351 [label="Minor_Axis_Length < 86.90514374"]
 	1345 -> 1351
-	1353 [label="Eccentricity < 0.895895183"]
+	1353 [label="Eccentricity < 0.89574528"]
 	1351 -> 1353
 	1355 [label="class = Osmancik"]
 	1353 -> 1355
@@ -411,9 +411,9 @@ digraph {
 	1353 -> 1354
 	1352 [label="class = Cammeo"]
 	1351 -> 1352
-	1346 [label="Minor_Axis_Length < 87.26089478"]
+	1346 [label="Minor_Axis_Length < 86.968647"]
 	1345 -> 1346
-	1348 [label="Eccentricity < 0.89577806"]
+	1348 [label="Eccentricity < 0.89573902"]
 	1346 -> 1348
 	1350 [label="class = Cammeo"]
 	1348 -> 1350
@@ -421,35 +421,35 @@ digraph {
 	1348 -> 1349
 	1347 [label="class = Cammeo"]
 	1346 -> 1347
-	1260 [label="Convex_Area < 14306"]
+	1260 [label="Convex_Area < 14305.5"]
 	1259 -> 1260
-	1290 [label="Extent < 0.650531888"]
+	1290 [label="Extent < 0.65032461"]
 	1260 -> 1290
-	1314 [label="Area < 14407"]
+	1314 [label="Area < 14404.0"]
 	1290 -> 1314
-	1326 [label="Perimeter < 481.631012"]
+	1326 [label="Perimeter < 481.2965088"]
 	1314 -> 1326
-	1334 [label="Major_Axis_Length < 202.4020691"]
+	1334 [label="Major_Axis_Length < 202.3775635"]
 	1326 -> 1334
 	1340 [label="class = Cammeo"]
 	1334 -> 1340
-	1335 [label="Minor_Axis_Length < 94.9805603"]
+	1335 [label="Minor_Axis_Length < 94.2206459"]
 	1334 -> 1335
 	1339 [label="class = Cammeo"]
 	1335 -> 1339
-	1336 [label="Eccentricity < 0.891545415"]
+	1336 [label="Eccentricity < 0.88845485"]
 	1335 -> 1336
 	1338 [label="class = Cammeo"]
 	1336 -> 1338
 	1337 [label="class = Osmancik"]
 	1336 -> 1337
-	1327 [label="Major_Axis_Length < 199.1184387"]
+	1327 [label="Major_Axis_Length < 199.09049225"]
 	1326 -> 1327
 	1333 [label="class = Cammeo"]
 	1327 -> 1333
-	1328 [label="Minor_Axis_Length < 94.98594666"]
+	1328 [label="Minor_Axis_Length < 94.32314301"]
 	1327 -> 1328
-	1330 [label="Eccentricity < 0.877301753"]
+	1330 [label="Eccentricity < 0.87522408"]
 	1328 -> 1330
 	1332 [label="class = Cammeo"]
 	1330 -> 1332
@@ -457,21 +457,21 @@ digraph {
 	1330 -> 1331
 	1329 [label="class = Cammeo"]
 	1328 -> 1329
-	1315 [label="Perimeter < 479.677002"]
+	1315 [label="Perimeter < 478.98350525"]
 	1314 -> 1315
-	1317 [label="Major_Axis_Length < 199.489151"]
+	1317 [label="Major_Axis_Length < 199.31877135"]
 	1315 -> 1317
 	1325 [label="class = Cammeo"]
 	1317 -> 1325
-	1318 [label="Minor_Axis_Length < 92.79872894"]
+	1318 [label="Minor_Axis_Length < 92.10481262"]
 	1317 -> 1318
-	1322 [label="Eccentricity < 0.884132385"]
+	1322 [label="Eccentricity < 0.88310301"]
 	1318 -> 1322
 	1324 [label="class = Cammeo"]
 	1322 -> 1324
 	1323 [label="class = Osmancik"]
 	1322 -> 1323
-	1319 [label="Eccentricity < 0.888591766"]
+	1319 [label="Eccentricity < 0.88851169"]
 	1318 -> 1319
 	1321 [label="class = Osmancik"]
 	1319 -> 1321
@@ -479,15 +479,15 @@ digraph {
 	1319 -> 1320
 	1316 [label="class = Cammeo"]
 	1315 -> 1316
-	1291 [label="Area < 14204"]
+	1291 [label="Area < 14194.0"]
 	1290 -> 1291
-	1301 [label="Perimeter < 481.3779907"]
+	1301 [label="Perimeter < 481.30899045"]
 	1291 -> 1301
-	1307 [label="Major_Axis_Length < 199.5439758"]
+	1307 [label="Major_Axis_Length < 199.02366635"]
 	1301 -> 1307
-	1309 [label="Minor_Axis_Length < 94.38363647"]
+	1309 [label="Minor_Axis_Length < 92.73723984"]
 	1307 -> 1309
-	1311 [label="Eccentricity < 0.881709993"]
+	1311 [label="Eccentricity < 0.87888819"]
 	1309 -> 1311
 	1313 [label="class = Cammeo"]
 	1311 -> 1313
@@ -497,27 +497,27 @@ digraph {
 	1309 -> 1310
 	1308 [label="class = Cammeo"]
 	1307 -> 1308
-	1302 [label="Major_Axis_Length < 196.9861145"]
+	1302 [label="Major_Axis_Length < 196.8652954"]
 	1301 -> 1302
 	1306 [label="class = Cammeo"]
 	1302 -> 1306
-	1303 [label="Minor_Axis_Length < 93.87129211"]
+	1303 [label="Minor_Axis_Length < 93.38753891"]
 	1302 -> 1303
 	1305 [label="class = Cammeo"]
 	1303 -> 1305
 	1304 [label="class = Osmancik"]
 	1303 -> 1304
-	1292 [label="Perimeter < 479.3160095"]
+	1292 [label="Perimeter < 479.27500915"]
 	1291 -> 1292
 	1300 [label="class = Cammeo"]
 	1292 -> 1300
-	1293 [label="Major_Axis_Length < 195.7261505"]
+	1293 [label="Major_Axis_Length < 195.5406265"]
 	1292 -> 1293
-	1295 [label="Minor_Axis_Length < 92.07521057"]
+	1295 [label="Minor_Axis_Length < 91.95713043"]
 	1293 -> 1295
 	1299 [label="class = Cammeo"]
 	1295 -> 1299
-	1296 [label="Eccentricity < 0.888061464"]
+	1296 [label="Eccentricity < 0.88557079"]
 	1295 -> 1296
 	1298 [label="class = Cammeo"]
 	1296 -> 1298
@@ -525,85 +525,85 @@ digraph {
 	1296 -> 1297
 	1294 [label="class = Cammeo"]
 	1293 -> 1294
-	1261 [label="Extent < 0.646786809"]
+	1261 [label="Extent < 0.64401889"]
 	1260 -> 1261
 	1289 [label="class = Cammeo"]
 	1261 -> 1289
-	1262 [label="Area < 13667"]
+	1262 [label="Area < 13620.5"]
 	1261 -> 1262
-	1278 [label="Perimeter < 475.5899963"]
+	1278 [label="Perimeter < 475.3034973"]
 	1262 -> 1278
 	1288 [label="class = Cammeo"]
 	1278 -> 1288
-	1279 [label="Major_Axis_Length < 198.1157532"]
+	1279 [label="Major_Axis_Length < 197.73570255"]
 	1278 -> 1279
-	1283 [label="Minor_Axis_Length < 89.04605103"]
+	1283 [label="Minor_Axis_Length < 89.03857422"]
 	1279 -> 1283
 	1287 [label="class = Cammeo"]
 	1283 -> 1287
-	1284 [label="Eccentricity < 0.89460218"]
+	1284 [label="Eccentricity < 0.89396912"]
 	1283 -> 1284
 	1286 [label="class = Cammeo"]
 	1284 -> 1286
 	1285 [label="class = Osmancik"]
 	1284 -> 1285
-	1280 [label="Minor_Axis_Length < 90.97846222"]
+	1280 [label="Minor_Axis_Length < 89.78259278"]
 	1279 -> 1280
 	1282 [label="class = Cammeo"]
 	1280 -> 1282
 	1281 [label="class = Osmancik"]
 	1280 -> 1281
-	1263 [label="Perimeter < 473.2210083"]
+	1263 [label="Perimeter < 472.375"]
 	1262 -> 1263
-	1273 [label="Major_Axis_Length < 196.1175537"]
+	1273 [label="Major_Axis_Length < 195.9582443"]
 	1263 -> 1273
 	1277 [label="class = Cammeo"]
 	1273 -> 1277
-	1274 [label="Minor_Axis_Length < 88.77674866"]
+	1274 [label="Minor_Axis_Length < 88.52078628"]
 	1273 -> 1274
 	1276 [label="class = Cammeo"]
 	1274 -> 1276
 	1275 [label="class = Osmancik"]
 	1274 -> 1275
-	1264 [label="Major_Axis_Length < 194.8988495"]
+	1264 [label="Major_Axis_Length < 194.8161087"]
 	1263 -> 1264
-	1268 [label="Minor_Axis_Length < 88.71108246"]
+	1268 [label="Minor_Axis_Length < 88.34511566"]
 	1264 -> 1268
 	1272 [label="class = Cammeo"]
 	1268 -> 1272
-	1269 [label="Eccentricity < 0.894974828"]
+	1269 [label="Eccentricity < 0.89465019"]
 	1268 -> 1269
 	1271 [label="class = Cammeo"]
 	1269 -> 1271
 	1270 [label="class = Osmancik"]
 	1269 -> 1270
-	1265 [label="Minor_Axis_Length < 87.36396027"]
+	1265 [label="Minor_Axis_Length < 87.25229264"]
 	1264 -> 1265
 	1267 [label="class = Cammeo"]
 	1265 -> 1267
 	1266 [label="class = Osmancik"]
 	1265 -> 1266
-	1074 [label="Eccentricity < 0.908501029"]
+	1074 [label="Eccentricity < 0.90848598"]
 	1073 -> 1074
-	1190 [label="Convex_Area < 13288"]
+	1190 [label="Convex_Area < 13283.5"]
 	1074 -> 1190
-	1230 [label="Extent < 0.651242673"]
+	1230 [label="Extent < 0.65071842"]
 	1190 -> 1230
-	1248 [label="Area < 13263"]
+	1248 [label="Area < 13254.0"]
 	1230 -> 1248
 	1258 [label="class = Cammeo"]
 	1248 -> 1258
-	1249 [label="Perimeter < 473.2349854"]
+	1249 [label="Perimeter < 473.19349675"]
 	1248 -> 1249
-	1251 [label="Major_Axis_Length < 204.8645325"]
+	1251 [label="Major_Axis_Length < 204.7311478"]
 	1249 -> 1251
 	1257 [label="class = Cammeo"]
 	1251 -> 1257
-	1252 [label="Minor_Axis_Length < 83.2011795"]
+	1252 [label="Minor_Axis_Length < 83.1410141"]
 	1251 -> 1252
 	1256 [label="class = Cammeo"]
 	1252 -> 1256
-	1253 [label="Eccentricity < 0.915416956"]
+	1253 [label="Eccentricity < 0.91401535"]
 	1252 -> 1253
 	1255 [label="class = Cammeo"]
 	1253 -> 1255
@@ -611,19 +611,19 @@ digraph {
 	1253 -> 1254
 	1250 [label="class = Cammeo"]
 	1249 -> 1250
-	1231 [label="Area < 13272"]
+	1231 [label="Area < 13243.5"]
 	1230 -> 1231
 	1247 [label="class = Cammeo"]
 	1231 -> 1247
-	1232 [label="Perimeter < 478.0020142"]
+	1232 [label="Perimeter < 477.9265137"]
 	1231 -> 1232
-	1240 [label="Major_Axis_Length < 205.8575745"]
+	1240 [label="Major_Axis_Length < 205.58483125"]
 	1232 -> 1240
-	1242 [label="Minor_Axis_Length < 81.67606354"]
+	1242 [label="Minor_Axis_Length < 81.55613708"]
 	1240 -> 1242
 	1246 [label="class = Cammeo"]
 	1242 -> 1246
-	1243 [label="Eccentricity < 0.921661079"]
+	1243 [label="Eccentricity < 0.92004308"]
 	1242 -> 1243
 	1245 [label="class = Cammeo"]
 	1243 -> 1245
@@ -631,13 +631,13 @@ digraph {
 	1243 -> 1244
 	1241 [label="class = Cammeo"]
 	1240 -> 1241
-	1233 [label="Major_Axis_Length < 203.4450684"]
+	1233 [label="Major_Axis_Length < 203.06565095"]
 	1232 -> 1233
-	1235 [label="Minor_Axis_Length < 82.57012939"]
+	1235 [label="Minor_Axis_Length < 82.2755127"]
 	1233 -> 1235
 	1239 [label="class = Cammeo"]
 	1235 -> 1239
-	1236 [label="Eccentricity < 0.920391917"]
+	1236 [label="Eccentricity < 0.91804317"]
 	1235 -> 1236
 	1238 [label="class = Osmancik"]
 	1236 -> 1238
@@ -645,21 +645,21 @@ digraph {
 	1236 -> 1237
 	1234 [label="class = Cammeo"]
 	1233 -> 1234
-	1191 [label="Extent < 0.641250074"]
+	1191 [label="Extent < 0.63810196"]
 	1190 -> 1191
-	1209 [label="Area < 12759"]
+	1209 [label="Area < 12751.5"]
 	1191 -> 1209
 	1229 [label="class = Cammeo"]
 	1209 -> 1229
-	1210 [label="Perimeter < 468.5960083"]
+	1210 [label="Perimeter < 468.26049805"]
 	1209 -> 1210
-	1222 [label="Major_Axis_Length < 203.9220581"]
+	1222 [label="Major_Axis_Length < 203.33823395"]
 	1210 -> 1222
-	1224 [label="Minor_Axis_Length < 80.00766754"]
+	1224 [label="Minor_Axis_Length < 79.95270538"]
 	1222 -> 1224
 	1228 [label="class = Cammeo"]
 	1224 -> 1228
-	1225 [label="Eccentricity < 0.924847364"]
+	1225 [label="Eccentricity < 0.92249292"]
 	1224 -> 1225
 	1227 [label="class = Cammeo"]
 	1225 -> 1227
@@ -667,11 +667,11 @@ digraph {
 	1225 -> 1226
 	1223 [label="class = Cammeo"]
 	1222 -> 1223
-	1211 [label="Major_Axis_Length < 197.6823425"]
+	1211 [label="Major_Axis_Length < 197.5879898"]
 	1210 -> 1211
-	1217 [label="Minor_Axis_Length < 81.70650482"]
+	1217 [label="Minor_Axis_Length < 81.6383934"]
 	1211 -> 1217
-	1219 [label="Eccentricity < 0.913300693"]
+	1219 [label="Eccentricity < 0.91182026"]
 	1217 -> 1219
 	1221 [label="class = Cammeo"]
 	1219 -> 1221
@@ -679,9 +679,9 @@ digraph {
 	1219 -> 1220
 	1218 [label="class = Cammeo"]
 	1217 -> 1218
-	1212 [label="Minor_Axis_Length < 82.09127045"]
+	1212 [label="Minor_Axis_Length < 81.81928254"]
 	1211 -> 1212
-	1214 [label="Eccentricity < 0.908813775"]
+	1214 [label="Eccentricity < 0.9086574"]
 	1212 -> 1214
 	1216 [label="class = Osmancik"]
 	1214 -> 1216
@@ -689,17 +689,17 @@ digraph {
 	1214 -> 1215
 	1213 [label="class = Cammeo"]
 	1212 -> 1213
-	1192 [label="Area < 12695"]
+	1192 [label="Area < 12689.5"]
 	1191 -> 1192
-	1200 [label="Perimeter < 471.3340149"]
+	1200 [label="Perimeter < 471.26501465"]
 	1192 -> 1200
 	1208 [label="class = Cammeo"]
 	1200 -> 1208
-	1201 [label="Major_Axis_Length < 199.9649963"]
+	1201 [label="Major_Axis_Length < 199.6132431"]
 	1200 -> 1201
-	1203 [label="Minor_Axis_Length < 82.79619598"]
+	1203 [label="Minor_Axis_Length < 82.72546768"]
 	1201 -> 1203
-	1205 [label="Eccentricity < 0.910772502"]
+	1205 [label="Eccentricity < 0.90986714"]
 	1203 -> 1205
 	1207 [label="class = Cammeo"]
 	1205 -> 1207
@@ -709,35 +709,35 @@ digraph {
 	1203 -> 1204
 	1202 [label="class = Osmancik"]
 	1201 -> 1202
-	1193 [label="Perimeter < 469.6080017"]
+	1193 [label="Perimeter < 468.91600035"]
 	1192 -> 1193
 	1199 [label="class = Cammeo"]
 	1193 -> 1199
-	1194 [label="Major_Axis_Length < 199.0391388"]
+	1194 [label="Major_Axis_Length < 198.72192385"]
 	1193 -> 1194
 	1198 [label="class = Cammeo"]
 	1194 -> 1198
-	1195 [label="Minor_Axis_Length < 81.89427948"]
+	1195 [label="Minor_Axis_Length < 81.81972504"]
 	1194 -> 1195
 	1197 [label="class = Cammeo"]
 	1195 -> 1197
 	1196 [label="class = Osmancik"]
 	1195 -> 1196
-	1075 [label="Convex_Area < 13383"]
+	1075 [label="Convex_Area < 13383.0"]
 	1074 -> 1075
-	1147 [label="Extent < 0.651221812"]
+	1147 [label="Extent < 0.64889619"]
 	1075 -> 1147
-	1173 [label="Area < 13279"]
+	1173 [label="Area < 13273.5"]
 	1147 -> 1173
-	1181 [label="Perimeter < 475.9570007"]
+	1181 [label="Perimeter < 475.31950375"]
 	1173 -> 1181
 	1189 [label="class = Cammeo"]
 	1181 -> 1189
-	1182 [label="Major_Axis_Length < 200.9385681"]
+	1182 [label="Major_Axis_Length < 200.7416382"]
 	1181 -> 1182
-	1184 [label="Minor_Axis_Length < 85.25860596"]
+	1184 [label="Minor_Axis_Length < 85.21570588"]
 	1182 -> 1184
-	1186 [label="Eccentricity < 0.905974567"]
+	1186 [label="Eccentricity < 0.90523371"]
 	1184 -> 1186
 	1188 [label="class = Cammeo"]
 	1186 -> 1188
@@ -747,33 +747,33 @@ digraph {
 	1184 -> 1185
 	1183 [label="class = Cammeo"]
 	1182 -> 1183
-	1174 [label="Perimeter < 470.3890076"]
+	1174 [label="Perimeter < 469.963501"]
 	1173 -> 1174
 	1180 [label="class = Cammeo"]
 	1174 -> 1180
-	1175 [label="Major_Axis_Length < 198.0613861"]
+	1175 [label="Major_Axis_Length < 197.33908845"]
 	1174 -> 1175
 	1179 [label="class = Cammeo"]
 	1175 -> 1179
-	1176 [label="Minor_Axis_Length < 85.99484253"]
+	1176 [label="Minor_Axis_Length < 85.39757919"]
 	1175 -> 1176
 	1178 [label="class = Osmancik"]
 	1176 -> 1178
 	1177 [label="class = Cammeo"]
 	1176 -> 1177
-	1148 [label="Area < 13279"]
+	1148 [label="Area < 13276.0"]
 	1147 -> 1148
-	1164 [label="Perimeter < 477.8699951"]
+	1164 [label="Perimeter < 476.8065033"]
 	1148 -> 1164
 	1172 [label="class = Cammeo"]
 	1164 -> 1172
-	1165 [label="Major_Axis_Length < 199.297226"]
+	1165 [label="Major_Axis_Length < 199.28489685"]
 	1164 -> 1165
-	1167 [label="Minor_Axis_Length < 85.91238403"]
+	1167 [label="Minor_Axis_Length < 85.52508545"]
 	1165 -> 1167
 	1171 [label="class = Cammeo"]
 	1167 -> 1171
-	1168 [label="Eccentricity < 0.905784309"]
+	1168 [label="Eccentricity < 0.90553194"]
 	1167 -> 1168
 	1170 [label="class = Cammeo"]
 	1168 -> 1170
@@ -781,15 +781,15 @@ digraph {
 	1168 -> 1169
 	1166 [label="class = Cammeo"]
 	1165 -> 1166
-	1149 [label="Perimeter < 474.8370056"]
+	1149 [label="Perimeter < 472.9165039"]
 	1148 -> 1149
-	1157 [label="Major_Axis_Length < 199.981308"]
+	1157 [label="Major_Axis_Length < 199.83527375"]
 	1149 -> 1157
 	1163 [label="class = Cammeo"]
 	1157 -> 1163
-	1158 [label="Minor_Axis_Length < 85.41971588"]
+	1158 [label="Minor_Axis_Length < 85.41383743"]
 	1157 -> 1158
-	1160 [label="Eccentricity < 0.903446913"]
+	1160 [label="Eccentricity < 0.90260345"]
 	1158 -> 1160
 	1162 [label="class = Cammeo"]
 	1160 -> 1162
@@ -797,11 +797,11 @@ digraph {
 	1160 -> 1161
 	1159 [label="class = Cammeo"]
 	1158 -> 1159
-	1150 [label="Major_Axis_Length < 197.9048004"]
+	1150 [label="Major_Axis_Length < 197.67879485"]
 	1149 -> 1150
-	1152 [label="Minor_Axis_Length < 85.70957184"]
+	1152 [label="Minor_Axis_Length < 85.54957199"]
 	1150 -> 1152
-	1154 [label="Eccentricity < 0.901417792"]
+	1154 [label="Eccentricity < 0.90138549"]
 	1152 -> 1154
 	1156 [label="class = Osmancik"]
 	1154 -> 1156
@@ -811,17 +811,17 @@ digraph {
 	1152 -> 1153
 	1151 [label="class = Cammeo"]
 	1150 -> 1151
-	1076 [label="Extent < 0.606542349"]
+	1076 [label="Extent < 0.60638133"]
 	1075 -> 1076
-	1114 [label="Area < 12907"]
+	1114 [label="Area < 12897.5"]
 	1076 -> 1114
-	1134 [label="Perimeter < 466.1390076"]
+	1134 [label="Perimeter < 465.99450685"]
 	1114 -> 1134
-	1140 [label="Major_Axis_Length < 197.8024292"]
+	1140 [label="Major_Axis_Length < 197.76433565"]
 	1134 -> 1140
-	1142 [label="Minor_Axis_Length < 84.5166626"]
+	1142 [label="Minor_Axis_Length < 84.4406395"]
 	1140 -> 1142
-	1144 [label="Eccentricity < 0.904531956"]
+	1144 [label="Eccentricity < 0.90326583"]
 	1142 -> 1144
 	1146 [label="class = Osmancik"]
 	1144 -> 1146
@@ -831,33 +831,33 @@ digraph {
 	1142 -> 1143
 	1141 [label="class = Cammeo"]
 	1140 -> 1141
-	1135 [label="Major_Axis_Length < 195.5175781"]
+	1135 [label="Major_Axis_Length < 195.4109497"]
 	1134 -> 1135
 	1139 [label="class = Cammeo"]
 	1135 -> 1139
-	1136 [label="Minor_Axis_Length < 86.11576843"]
+	1136 [label="Minor_Axis_Length < 85.8016243"]
 	1135 -> 1136
 	1138 [label="class = Osmancik"]
 	1136 -> 1138
 	1137 [label="class = Cammeo"]
 	1136 -> 1137
-	1115 [label="Perimeter < 461.8059998"]
+	1115 [label="Perimeter < 461.4714966"]
 	1114 -> 1115
-	1123 [label="Major_Axis_Length < 197.3787384"]
+	1123 [label="Major_Axis_Length < 196.9695282"]
 	1115 -> 1123
-	1129 [label="Minor_Axis_Length < 83.28892517"]
+	1129 [label="Minor_Axis_Length < 83.05010224"]
 	1123 -> 1129
 	1133 [label="class = Cammeo"]
 	1129 -> 1133
-	1130 [label="Eccentricity < 0.908282638"]
+	1130 [label="Eccentricity < 0.90815315"]
 	1129 -> 1130
 	1132 [label="class = Cammeo"]
 	1130 -> 1132
 	1131 [label="class = Osmancik"]
 	1130 -> 1131
-	1124 [label="Minor_Axis_Length < 84.83200836"]
+	1124 [label="Minor_Axis_Length < 83.9722023"]
 	1123 -> 1124
-	1126 [label="Eccentricity < 0.899823129"]
+	1126 [label="Eccentricity < 0.89888754"]
 	1124 -> 1126
 	1128 [label="class = Cammeo"]
 	1126 -> 1128
@@ -865,13 +865,13 @@ digraph {
 	1126 -> 1127
 	1125 [label="class = Cammeo"]
 	1124 -> 1125
-	1116 [label="Major_Axis_Length < 195.6509247"]
+	1116 [label="Major_Axis_Length < 195.59290315"]
 	1115 -> 1116
-	1118 [label="Minor_Axis_Length < 83.10926819"]
+	1118 [label="Minor_Axis_Length < 82.7365036"]
 	1116 -> 1118
 	1122 [label="class = Cammeo"]
 	1118 -> 1122
-	1119 [label="Eccentricity < 0.907529294"]
+	1119 [label="Eccentricity < 0.90730125"]
 	1118 -> 1119
 	1121 [label="class = Osmancik"]
 	1119 -> 1121
@@ -879,17 +879,17 @@ digraph {
 	1119 -> 1120
 	1117 [label="class = Cammeo"]
 	1116 -> 1117
-	1077 [label="Area < 12840"]
+	1077 [label="Area < 12838.5"]
 	1076 -> 1077
-	1093 [label="Perimeter < 466.1629944"]
+	1093 [label="Perimeter < 466.1490021"]
 	1077 -> 1093
-	1107 [label="Major_Axis_Length < 198.1559753"]
+	1107 [label="Major_Axis_Length < 197.9595947"]
 	1093 -> 1107
 	1113 [label="class = Cammeo"]
 	1107 -> 1113
-	1108 [label="Minor_Axis_Length < 84.80590057"]
+	1108 [label="Minor_Axis_Length < 84.46150589"]
 	1107 -> 1108
-	1110 [label="Eccentricity < 0.903316736"]
+	1110 [label="Eccentricity < 0.90185326"]
 	1108 -> 1110
 	1112 [label="class = Cammeo"]
 	1110 -> 1112
@@ -897,25 +897,25 @@ digraph {
 	1110 -> 1111
 	1109 [label="class = Cammeo"]
 	1108 -> 1109
-	1094 [label="Major_Axis_Length < 195.3451385"]
+	1094 [label="Major_Axis_Length < 195.2219467"]
 	1093 -> 1094
-	1100 [label="Minor_Axis_Length < 84.88217926"]
+	1100 [label="Minor_Axis_Length < 84.78763581"]
 	1094 -> 1100
-	1104 [label="Eccentricity < 0.901017964"]
+	1104 [label="Eccentricity < 0.90100491"]
 	1100 -> 1104
 	1106 [label="class = Osmancik"]
 	1104 -> 1106
 	1105 [label="class = Cammeo"]
 	1104 -> 1105
-	1101 [label="Eccentricity < 0.902521908"]
+	1101 [label="Eccentricity < 0.90197325"]
 	1100 -> 1101
 	1103 [label="class = Cammeo"]
 	1101 -> 1103
 	1102 [label="class = Osmancik"]
 	1101 -> 1102
-	1095 [label="Minor_Axis_Length < 85.82198334"]
+	1095 [label="Minor_Axis_Length < 85.77231598"]
 	1094 -> 1095
-	1097 [label="Eccentricity < 0.897553802"]
+	1097 [label="Eccentricity < 0.89743051"]
 	1095 -> 1097
 	1099 [label="class = Osmancik"]
 	1097 -> 1099
@@ -923,27 +923,27 @@ digraph {
 	1097 -> 1098
 	1096 [label="class = Cammeo"]
 	1095 -> 1096
-	1078 [label="Perimeter < 464.7680054"]
+	1078 [label="Perimeter < 464.6470032"]
 	1077 -> 1078
-	1080 [label="Major_Axis_Length < 196.3638"]
+	1080 [label="Major_Axis_Length < 196.08601375"]
 	1078 -> 1080
-	1086 [label="Minor_Axis_Length < 83.97206879"]
+	1086 [label="Minor_Axis_Length < 83.8826828"]
 	1080 -> 1086
-	1090 [label="Eccentricity < 0.904946506"]
+	1090 [label="Eccentricity < 0.90447566"]
 	1086 -> 1090
 	1092 [label="class = Cammeo"]
 	1090 -> 1092
 	1091 [label="class = Osmancik"]
 	1090 -> 1091
-	1087 [label="Eccentricity < 0.905207455"]
+	1087 [label="Eccentricity < 0.90480933"]
 	1086 -> 1087
 	1089 [label="class = Osmancik"]
 	1087 -> 1089
 	1088 [label="class = Cammeo"]
 	1087 -> 1088
-	1081 [label="Minor_Axis_Length < 84.35991669"]
+	1081 [label="Minor_Axis_Length < 83.88193512"]
 	1080 -> 1081
-	1083 [label="Eccentricity < 0.901990652"]
+	1083 [label="Eccentricity < 0.90019631"]
 	1081 -> 1083
 	1085 [label="class = Cammeo"]
 	1083 -> 1085
@@ -953,43 +953,43 @@ digraph {
 	1081 -> 1082
 	1079 [label="class = Cammeo"]
 	1078 -> 1079
-	656 [label="Minor_Axis_Length < 90.13162994"]
+	656 [label="Minor_Axis_Length < 90.13093185"]
 	655 -> 656
-	910 [label="Eccentricity < 0.861784577"]
+	910 [label="Eccentricity < 0.86159188"]
 	656 -> 910
-	962 [label="Convex_Area < 13612"]
+	962 [label="Convex_Area < 13611.5"]
 	910 -> 962
-	988 [label="Extent < 0.634315491"]
+	988 [label="Extent < 0.63190275"]
 	962 -> 988
-	1030 [label="Area < 13635"]
+	1030 [label="Area < 13610.5"]
 	988 -> 1030
-	1056 [label="Perimeter < 468.571991"]
+	1056 [label="Perimeter < 468.18649295"]
 	1030 -> 1056
-	1066 [label="Major_Axis_Length < 193.1961823"]
+	1066 [label="Major_Axis_Length < 193.1640015"]
 	1056 -> 1066
 	1072 [label="class = Cammeo"]
 	1066 -> 1072
-	1067 [label="Minor_Axis_Length < 96.94859314"]
+	1067 [label="Minor_Axis_Length < 94.91451645"]
 	1066 -> 1067
 	1071 [label="class = Cammeo"]
 	1067 -> 1071
-	1068 [label="Eccentricity < 0.876152873"]
+	1068 [label="Eccentricity < 0.87565669"]
 	1067 -> 1068
 	1070 [label="class = Cammeo"]
 	1068 -> 1070
 	1069 [label="class = Osmancik"]
 	1068 -> 1069
-	1057 [label="Major_Axis_Length < 191.011795"]
+	1057 [label="Major_Axis_Length < 190.26875305"]
 	1056 -> 1057
-	1059 [label="Minor_Axis_Length < 91.70781708"]
+	1059 [label="Minor_Axis_Length < 91.27983475"]
 	1057 -> 1059
-	1063 [label="Eccentricity < 0.877643049"]
+	1063 [label="Eccentricity < 0.87726176"]
 	1059 -> 1063
 	1065 [label="class = Cammeo"]
 	1063 -> 1065
 	1064 [label="class = Osmancik"]
 	1063 -> 1064
-	1060 [label="Eccentricity < 0.884328902"]
+	1060 [label="Eccentricity < 0.8838757"]
 	1059 -> 1060
 	1062 [label="class = Cammeo"]
 	1060 -> 1062
@@ -997,27 +997,27 @@ digraph {
 	1060 -> 1061
 	1058 [label="class = Osmancik"]
 	1057 -> 1058
-	1031 [label="Perimeter < 461.4689941"]
+	1031 [label="Perimeter < 461.00900265"]
 	1030 -> 1031
-	1043 [label="Major_Axis_Length < 191.151123"]
+	1043 [label="Major_Axis_Length < 190.58873745"]
 	1031 -> 1043
-	1049 [label="Minor_Axis_Length < 90.53829956"]
+	1049 [label="Minor_Axis_Length < 90.4525528"]
 	1043 -> 1049
-	1053 [label="Eccentricity < 0.881242037"]
+	1053 [label="Eccentricity < 0.87912461"]
 	1049 -> 1053
 	1055 [label="class = Cammeo"]
 	1053 -> 1055
 	1054 [label="class = Osmancik"]
 	1053 -> 1054
-	1050 [label="Eccentricity < 0.882980824"]
+	1050 [label="Eccentricity < 0.88260674"]
 	1049 -> 1050
 	1052 [label="class = Cammeo"]
 	1050 -> 1052
 	1051 [label="class = Osmancik"]
 	1050 -> 1051
-	1044 [label="Minor_Axis_Length < 92.67175293"]
+	1044 [label="Minor_Axis_Length < 92.24642563"]
 	1043 -> 1044
-	1046 [label="Eccentricity < 0.867818415"]
+	1046 [label="Eccentricity < 0.86679801"]
 	1044 -> 1046
 	1048 [label="class = Cammeo"]
 	1046 -> 1048
@@ -1025,11 +1025,11 @@ digraph {
 	1046 -> 1047
 	1045 [label="class = Osmancik"]
 	1044 -> 1045
-	1032 [label="Major_Axis_Length < 187.6688995"]
+	1032 [label="Major_Axis_Length < 187.01107025"]
 	1031 -> 1032
-	1038 [label="Minor_Axis_Length < 92.39390564"]
+	1038 [label="Minor_Axis_Length < 92.08517838"]
 	1032 -> 1038
-	1040 [label="Eccentricity < 0.872525454"]
+	1040 [label="Eccentricity < 0.87127024"]
 	1038 -> 1040
 	1042 [label="class = Cammeo"]
 	1040 -> 1042
@@ -1037,9 +1037,9 @@ digraph {
 	1040 -> 1041
 	1039 [label="class = Osmancik"]
 	1038 -> 1039
-	1033 [label="Minor_Axis_Length < 93.29590607"]
+	1033 [label="Minor_Axis_Length < 92.72755051"]
 	1032 -> 1033
-	1035 [label="Eccentricity < 0.86441046"]
+	1035 [label="Eccentricity < 0.86316472"]
 	1033 -> 1035
 	1037 [label="class = Osmancik"]
 	1035 -> 1037
@@ -1047,15 +1047,15 @@ digraph {
 	1035 -> 1036
 	1034 [label="class = Osmancik"]
 	1033 -> 1034
-	989 [label="Area < 13657"]
+	989 [label="Area < 13644.0"]
 	988 -> 989
-	1011 [label="Perimeter < 469.2369995"]
+	1011 [label="Perimeter < 468.5664978"]
 	989 -> 1011
-	1023 [label="Major_Axis_Length < 192.3492889"]
+	1023 [label="Major_Axis_Length < 192.27392575"]
 	1011 -> 1023
-	1025 [label="Minor_Axis_Length < 93.77914429"]
+	1025 [label="Minor_Axis_Length < 93.31947708"]
 	1023 -> 1025
-	1027 [label="Eccentricity < 0.873097241"]
+	1027 [label="Eccentricity < 0.86793929"]
 	1025 -> 1027
 	1029 [label="class = Cammeo"]
 	1027 -> 1029
@@ -1065,35 +1065,35 @@ digraph {
 	1025 -> 1026
 	1024 [label="class = Cammeo"]
 	1023 -> 1024
-	1012 [label="Major_Axis_Length < 189.7926025"]
+	1012 [label="Major_Axis_Length < 189.66182705"]
 	1011 -> 1012
-	1016 [label="Minor_Axis_Length < 94.24736786"]
+	1016 [label="Minor_Axis_Length < 93.73695755"]
 	1012 -> 1016
-	1020 [label="Eccentricity < 0.870849848"]
+	1020 [label="Eccentricity < 0.86814436"]
 	1016 -> 1020
 	1022 [label="class = Osmancik"]
 	1020 -> 1022
 	1021 [label="class = Cammeo"]
 	1020 -> 1021
-	1017 [label="Eccentricity < 0.877152145"]
+	1017 [label="Eccentricity < 0.8748332"]
 	1016 -> 1017
 	1019 [label="class = Cammeo"]
 	1017 -> 1019
 	1018 [label="class = Osmancik"]
 	1017 -> 1018
-	1013 [label="Minor_Axis_Length < 93.11316681"]
+	1013 [label="Minor_Axis_Length < 93.00945282"]
 	1012 -> 1013
 	1015 [label="class = Osmancik"]
 	1013 -> 1015
 	1014 [label="class = Cammeo"]
 	1013 -> 1014
-	990 [label="Perimeter < 468.0559998"]
+	990 [label="Perimeter < 467.9109955"]
 	989 -> 990
-	1000 [label="Major_Axis_Length < 192.0857849"]
+	1000 [label="Major_Axis_Length < 191.73300935"]
 	990 -> 1000
-	1006 [label="Minor_Axis_Length < 91.37776947"]
+	1006 [label="Minor_Axis_Length < 91.3040924"]
 	1000 -> 1006
-	1008 [label="Eccentricity < 0.881100178"]
+	1008 [label="Eccentricity < 0.88035026"]
 	1006 -> 1008
 	1010 [label="class = Cammeo"]
 	1008 -> 1010
@@ -1101,27 +1101,27 @@ digraph {
 	1008 -> 1009
 	1007 [label="class = Cammeo"]
 	1006 -> 1007
-	1001 [label="Minor_Axis_Length < 92.17391968"]
+	1001 [label="Minor_Axis_Length < 91.59353638"]
 	1000 -> 1001
 	1005 [label="class = Osmancik"]
 	1001 -> 1005
-	1002 [label="Eccentricity < 0.878916919"]
+	1002 [label="Eccentricity < 0.87786305"]
 	1001 -> 1002
 	1004 [label="class = Cammeo"]
 	1002 -> 1004
 	1003 [label="class = Osmancik"]
 	1002 -> 1003
-	991 [label="Major_Axis_Length < 190.3806305"]
+	991 [label="Major_Axis_Length < 189.8180542"]
 	990 -> 991
-	993 [label="Minor_Axis_Length < 91.71279907"]
+	993 [label="Minor_Axis_Length < 91.54253388"]
 	991 -> 993
-	997 [label="Eccentricity < 0.877835155"]
+	997 [label="Eccentricity < 0.87716925"]
 	993 -> 997
 	999 [label="class = Cammeo"]
 	997 -> 999
 	998 [label="class = Osmancik"]
 	997 -> 998
-	994 [label="Eccentricity < 0.884190559"]
+	994 [label="Eccentricity < 0.88074452"]
 	993 -> 994
 	996 [label="class = Osmancik"]
 	994 -> 996
@@ -1129,17 +1129,17 @@ digraph {
 	994 -> 995
 	992 [label="class = Osmancik"]
 	991 -> 992
-	963 [label="Extent < 0.668945253"]
+	963 [label="Extent < 0.66527358"]
 	962 -> 963
-	977 [label="Area < 12900"]
+	977 [label="Area < 12899.5"]
 	963 -> 977
-	979 [label="Perimeter < 458.0109863"]
+	979 [label="Perimeter < 457.3984985"]
 	977 -> 979
-	981 [label="Major_Axis_Length < 186.4734955"]
+	981 [label="Major_Axis_Length < 185.71069335"]
 	979 -> 981
-	983 [label="Minor_Axis_Length < 90.31277466"]
+	983 [label="Minor_Axis_Length < 90.28379822"]
 	981 -> 983
-	985 [label="Eccentricity < 0.87587148"]
+	985 [label="Eccentricity < 0.87584946"]
 	983 -> 985
 	987 [label="class = Osmancik"]
 	985 -> 987
@@ -1153,23 +1153,23 @@ digraph {
 	979 -> 980
 	978 [label="class = Osmancik"]
 	977 -> 978
-	964 [label="Area < 12826"]
+	964 [label="Area < 12813.0"]
 	963 -> 964
-	966 [label="Perimeter < 456.4410095"]
+	966 [label="Perimeter < 456.29299925"]
 	964 -> 966
-	968 [label="Major_Axis_Length < 186.3458557"]
+	968 [label="Major_Axis_Length < 186.1724777"]
 	966 -> 968
 	976 [label="class = Osmancik"]
 	968 -> 976
-	969 [label="Minor_Axis_Length < 91.29359436"]
+	969 [label="Minor_Axis_Length < 90.7490387"]
 	968 -> 969
-	973 [label="Eccentricity < 0.870661438"]
+	973 [label="Eccentricity < 0.86738434"]
 	969 -> 973
 	975 [label="class = Cammeo"]
 	973 -> 975
 	974 [label="class = Osmancik"]
 	973 -> 974
-	970 [label="Eccentricity < 0.874639332"]
+	970 [label="Eccentricity < 0.87457195"]
 	969 -> 970
 	972 [label="class = Osmancik"]
 	970 -> 972
@@ -1179,29 +1179,29 @@ digraph {
 	966 -> 967
 	965 [label="class = Osmancik"]
 	964 -> 965
-	911 [label="Convex_Area < 13094"]
+	911 [label="Convex_Area < 13087.5"]
 	910 -> 911
-	923 [label="Extent < 0.655256033"]
+	923 [label="Extent < 0.65489665"]
 	911 -> 923
-	939 [label="Area < 13218"]
+	939 [label="Area < 13218.0"]
 	923 -> 939
-	949 [label="Perimeter < 456.7449951"]
+	949 [label="Perimeter < 455.96749875"]
 	939 -> 949
-	951 [label="Major_Axis_Length < 185.1782379"]
+	951 [label="Major_Axis_Length < 184.18725585"]
 	949 -> 951
-	957 [label="Minor_Axis_Length < 97.53321075"]
+	957 [label="Minor_Axis_Length < 97.43819808"]
 	951 -> 957
 	961 [label="class = Osmancik"]
 	957 -> 961
-	958 [label="Eccentricity < 0.860140681"]
+	958 [label="Eccentricity < 0.86013755"]
 	957 -> 958
 	960 [label="class = Cammeo"]
 	958 -> 960
 	959 [label="class = Osmancik"]
 	958 -> 959
-	952 [label="Minor_Axis_Length < 99.44376373"]
+	952 [label="Minor_Axis_Length < 98.70882034"]
 	951 -> 952
-	954 [label="Eccentricity < 0.83743304"]
+	954 [label="Eccentricity < 0.83189034"]
 	952 -> 954
 	956 [label="class = Cammeo"]
 	954 -> 956
@@ -1211,15 +1211,15 @@ digraph {
 	952 -> 953
 	950 [label="class = Osmancik"]
 	949 -> 950
-	940 [label="Perimeter < 448.2749939"]
+	940 [label="Perimeter < 447.29100035"]
 	939 -> 940
-	942 [label="Major_Axis_Length < 180.697525"]
+	942 [label="Major_Axis_Length < 180.48138425"]
 	940 -> 942
 	948 [label="class = Osmancik"]
 	942 -> 948
-	943 [label="Minor_Axis_Length < 92.7516861"]
+	943 [label="Minor_Axis_Length < 92.6485939"]
 	942 -> 943
-	945 [label="Eccentricity < 0.854602098"]
+	945 [label="Eccentricity < 0.83954281"]
 	943 -> 945
 	947 [label="class = Cammeo"]
 	945 -> 947
@@ -1229,15 +1229,15 @@ digraph {
 	943 -> 944
 	941 [label="class = Osmancik"]
 	940 -> 941
-	924 [label="Area < 13172"]
+	924 [label="Area < 13163.0"]
 	923 -> 924
-	926 [label="Perimeter < 458.493988"]
+	926 [label="Perimeter < 458.095993"]
 	924 -> 926
-	928 [label="Major_Axis_Length < 185.5310364"]
+	928 [label="Major_Axis_Length < 185.46624755"]
 	926 -> 928
-	934 [label="Minor_Axis_Length < 97.93213654"]
+	934 [label="Minor_Axis_Length < 97.48133088"]
 	928 -> 934
-	936 [label="Eccentricity < 0.861087382"]
+	936 [label="Eccentricity < 0.85531896"]
 	934 -> 936
 	938 [label="class = Cammeo"]
 	936 -> 938
@@ -1245,9 +1245,9 @@ digraph {
 	936 -> 937
 	935 [label="class = Osmancik"]
 	934 -> 935
-	929 [label="Minor_Axis_Length < 97.46872711"]
+	929 [label="Minor_Axis_Length < 96.60539246"]
 	928 -> 929
-	931 [label="Eccentricity < 0.847370684"]
+	931 [label="Eccentricity < 0.84317634"]
 	929 -> 931
 	933 [label="class = Osmancik"]
 	931 -> 933
@@ -1259,21 +1259,21 @@ digraph {
 	926 -> 927
 	925 [label="class = Osmancik"]
 	924 -> 925
-	912 [label="Extent < 0.679107666"]
+	912 [label="Extent < 0.67476773"]
 	911 -> 912
 	922 [label="class = Osmancik"]
 	912 -> 922
-	913 [label="Area < 12570"]
+	913 [label="Area < 12564.0"]
 	912 -> 913
 	921 [label="class = Osmancik"]
 	913 -> 921
-	914 [label="Perimeter < 442.4819946"]
+	914 [label="Perimeter < 441.54899595"]
 	913 -> 914
-	916 [label="Major_Axis_Length < 176.243042"]
+	916 [label="Major_Axis_Length < 176.0445404"]
 	914 -> 916
 	920 [label="class = Osmancik"]
 	916 -> 920
-	917 [label="Minor_Axis_Length < 92.87818909"]
+	917 [label="Minor_Axis_Length < 92.60837936"]
 	916 -> 917
 	919 [label="class = Osmancik"]
 	917 -> 919
@@ -1281,27 +1281,27 @@ digraph {
 	917 -> 918
 	915 [label="class = Osmancik"]
 	914 -> 915
-	657 [label="Eccentricity < 0.886495948"]
+	657 [label="Eccentricity < 0.88646182"]
 	656 -> 657
-	759 [label="Convex_Area < 13043"]
+	759 [label="Convex_Area < 13035.5"]
 	657 -> 759
-	829 [label="Extent < 0.634556592"]
+	829 [label="Extent < 0.63413414"]
 	759 -> 829
-	873 [label="Area < 12974"]
+	873 [label="Area < 12972.5"]
 	829 -> 873
-	893 [label="Perimeter < 460.5740051"]
+	893 [label="Perimeter < 460.49549865"]
 	873 -> 893
-	901 [label="Major_Axis_Length < 193.527359"]
+	901 [label="Major_Axis_Length < 193.47616575"]
 	893 -> 901
-	907 [label="Minor_Axis_Length < 88.68710327"]
+	907 [label="Minor_Axis_Length < 88.25405884"]
 	901 -> 907
 	909 [label="class = Osmancik"]
 	907 -> 909
 	908 [label="class = Cammeo"]
 	907 -> 908
-	902 [label="Minor_Axis_Length < 87.92189789"]
+	902 [label="Minor_Axis_Length < 87.87760544"]
 	901 -> 902
-	904 [label="Eccentricity < 0.888824582"]
+	904 [label="Eccentricity < 0.88847265"]
 	902 -> 904
 	906 [label="class = Cammeo"]
 	904 -> 906
@@ -1309,13 +1309,13 @@ digraph {
 	904 -> 905
 	903 [label="class = Cammeo"]
 	902 -> 903
-	894 [label="Major_Axis_Length < 191.9049988"]
+	894 [label="Major_Axis_Length < 191.6646042"]
 	893 -> 894
-	896 [label="Minor_Axis_Length < 87.44839478"]
+	896 [label="Minor_Axis_Length < 87.00196076"]
 	894 -> 896
 	900 [label="class = Cammeo"]
 	896 -> 900
-	897 [label="Eccentricity < 0.895479977"]
+	897 [label="Eccentricity < 0.89414823"]
 	896 -> 897
 	899 [label="class = Cammeo"]
 	897 -> 899
@@ -1323,13 +1323,13 @@ digraph {
 	897 -> 898
 	895 [label="class = Cammeo"]
 	894 -> 895
-	874 [label="Perimeter < 460.6659851"]
+	874 [label="Perimeter < 460.246994"]
 	873 -> 874
-	882 [label="Major_Axis_Length < 191.5436707"]
+	882 [label="Major_Axis_Length < 191.16120915"]
 	874 -> 882
-	888 [label="Minor_Axis_Length < 85.90898895"]
+	888 [label="Minor_Axis_Length < 85.81669616"]
 	882 -> 888
-	890 [label="Eccentricity < 0.89585954"]
+	890 [label="Eccentricity < 0.89374062"]
 	888 -> 890
 	892 [label="class = Cammeo"]
 	890 -> 892
@@ -1337,9 +1337,9 @@ digraph {
 	890 -> 891
 	889 [label="class = Cammeo"]
 	888 -> 889
-	883 [label="Minor_Axis_Length < 87.37380981"]
+	883 [label="Minor_Axis_Length < 87.00943756"]
 	882 -> 883
-	885 [label="Eccentricity < 0.888854563"]
+	885 [label="Eccentricity < 0.88869125"]
 	883 -> 885
 	887 [label="class = Cammeo"]
 	885 -> 887
@@ -1347,45 +1347,45 @@ digraph {
 	885 -> 886
 	884 [label="class = Osmancik"]
 	883 -> 884
-	875 [label="Major_Axis_Length < 191.3286285"]
+	875 [label="Major_Axis_Length < 190.8484726"]
 	874 -> 875
-	879 [label="Minor_Axis_Length < 86.72583771"]
+	879 [label="Minor_Axis_Length < 86.6173706"]
 	875 -> 879
 	881 [label="class = Cammeo"]
 	879 -> 881
 	880 [label="class = Osmancik"]
 	879 -> 880
-	876 [label="Minor_Axis_Length < 87.08290863"]
+	876 [label="Minor_Axis_Length < 86.62277603"]
 	875 -> 876
 	878 [label="class = Osmancik"]
 	876 -> 878
 	877 [label="class = Cammeo"]
 	876 -> 877
-	830 [label="Area < 12894"]
+	830 [label="Area < 12892.0"]
 	829 -> 830
-	858 [label="Perimeter < 465.6480103"]
+	858 [label="Perimeter < 464.8079987"]
 	830 -> 858
-	868 [label="Major_Axis_Length < 193.5677185"]
+	868 [label="Major_Axis_Length < 193.55667115"]
 	858 -> 868
 	872 [label="class = Osmancik"]
 	868 -> 872
-	869 [label="Minor_Axis_Length < 88.05834961"]
+	869 [label="Minor_Axis_Length < 87.82819748"]
 	868 -> 869
 	871 [label="class = Cammeo"]
 	869 -> 871
 	870 [label="class = Osmancik"]
 	869 -> 870
-	859 [label="Major_Axis_Length < 192.90802"]
+	859 [label="Major_Axis_Length < 192.74936675"]
 	858 -> 859
-	861 [label="Minor_Axis_Length < 88.17571259"]
+	861 [label="Minor_Axis_Length < 87.44992447"]
 	859 -> 861
-	865 [label="Eccentricity < 0.889608026"]
+	865 [label="Eccentricity < 0.88908589"]
 	861 -> 865
 	867 [label="class = Cammeo"]
 	865 -> 867
 	866 [label="class = Osmancik"]
 	865 -> 866
-	862 [label="Eccentricity < 0.893659472"]
+	862 [label="Eccentricity < 0.89346778"]
 	861 -> 862
 	864 [label="class = Cammeo"]
 	862 -> 864
@@ -1393,43 +1393,43 @@ digraph {
 	862 -> 863
 	860 [label="class = Osmancik"]
 	859 -> 860
-	831 [label="Perimeter < 462.3599854"]
+	831 [label="Perimeter < 461.4559937"]
 	830 -> 831
-	843 [label="Major_Axis_Length < 192.9236755"]
+	843 [label="Major_Axis_Length < 192.80864715"]
 	831 -> 843
-	851 [label="Minor_Axis_Length < 86.45822144"]
+	851 [label="Minor_Axis_Length < 86.40792084"]
 	843 -> 851
-	855 [label="Eccentricity < 0.89433974"]
+	855 [label="Eccentricity < 0.8939164"]
 	851 -> 855
 	857 [label="class = Cammeo"]
 	855 -> 857
 	856 [label="class = Osmancik"]
 	855 -> 856
-	852 [label="Eccentricity < 0.897562444"]
+	852 [label="Eccentricity < 0.8958917"]
 	851 -> 852
 	854 [label="class = Cammeo"]
 	852 -> 854
 	853 [label="class = Osmancik"]
 	852 -> 853
-	844 [label="Minor_Axis_Length < 86.67176056"]
+	844 [label="Minor_Axis_Length < 86.00303268"]
 	843 -> 844
-	848 [label="Eccentricity < 0.890792012"]
+	848 [label="Eccentricity < 0.8891367"]
 	844 -> 848
 	850 [label="class = Cammeo"]
 	848 -> 850
 	849 [label="class = Osmancik"]
 	848 -> 849
-	845 [label="Eccentricity < 0.896712422"]
+	845 [label="Eccentricity < 0.89665416"]
 	844 -> 845
 	847 [label="class = Cammeo"]
 	845 -> 847
 	846 [label="class = Osmancik"]
 	845 -> 846
-	832 [label="Major_Axis_Length < 191.8227539"]
+	832 [label="Major_Axis_Length < 191.5053177"]
 	831 -> 832
-	838 [label="Minor_Axis_Length < 86.29828644"]
+	838 [label="Minor_Axis_Length < 86.12748718"]
 	832 -> 838
-	840 [label="Eccentricity < 0.893239975"]
+	840 [label="Eccentricity < 0.89316308"]
 	838 -> 840
 	842 [label="class = Osmancik"]
 	840 -> 842
@@ -1437,9 +1437,9 @@ digraph {
 	840 -> 841
 	839 [label="class = Cammeo"]
 	838 -> 839
-	833 [label="Minor_Axis_Length < 86.86006927"]
+	833 [label="Minor_Axis_Length < 86.58683014"]
 	832 -> 833
-	835 [label="Eccentricity < 0.887471914"]
+	835 [label="Eccentricity < 0.88737166"]
 	833 -> 835
 	837 [label="class = Cammeo"]
 	835 -> 837
@@ -1447,17 +1447,17 @@ digraph {
 	835 -> 836
 	834 [label="class = Cammeo"]
 	833 -> 834
-	760 [label="Extent < 0.639527857"]
+	760 [label="Extent < 0.63370758"]
 	759 -> 760
-	802 [label="Area < 12624"]
+	802 [label="Area < 12623.0"]
 	760 -> 802
-	816 [label="Perimeter < 455.1820068"]
+	816 [label="Perimeter < 454.4750061"]
 	802 -> 816
-	818 [label="Major_Axis_Length < 191.3734131"]
+	818 [label="Major_Axis_Length < 190.9051895"]
 	816 -> 818
-	824 [label="Minor_Axis_Length < 85.54149628"]
+	824 [label="Minor_Axis_Length < 85.22209549"]
 	818 -> 824
-	826 [label="Eccentricity < 0.895340383"]
+	826 [label="Eccentricity < 0.89468104"]
 	824 -> 826
 	828 [label="class = Osmancik"]
 	826 -> 828
@@ -1465,9 +1465,9 @@ digraph {
 	826 -> 827
 	825 [label="class = Cammeo"]
 	824 -> 825
-	819 [label="Minor_Axis_Length < 86.60137939"]
+	819 [label="Minor_Axis_Length < 86.17543793"]
 	818 -> 819
-	821 [label="Eccentricity < 0.888415992"]
+	821 [label="Eccentricity < 0.88802719"]
 	819 -> 821
 	823 [label="class = Cammeo"]
 	821 -> 823
@@ -1477,89 +1477,89 @@ digraph {
 	819 -> 820
 	817 [label="class = Osmancik"]
 	816 -> 817
-	803 [label="Perimeter < 454.8930054"]
+	803 [label="Perimeter < 454.1150055"]
 	802 -> 803
-	809 [label="Major_Axis_Length < 193.157959"]
+	809 [label="Major_Axis_Length < 192.5800705"]
 	803 -> 809
-	813 [label="Minor_Axis_Length < 83.73388672"]
+	813 [label="Minor_Axis_Length < 83.71762085"]
 	809 -> 813
 	815 [label="class = Osmancik"]
 	813 -> 815
 	814 [label="class = Cammeo"]
 	813 -> 814
-	810 [label="Minor_Axis_Length < 86.54058838"]
+	810 [label="Minor_Axis_Length < 86.26128006"]
 	809 -> 810
 	812 [label="class = Osmancik"]
 	810 -> 812
 	811 [label="class = Cammeo"]
 	810 -> 811
-	804 [label="Major_Axis_Length < 190.5436554"]
+	804 [label="Major_Axis_Length < 190.07450865"]
 	803 -> 804
 	808 [label="class = Osmancik"]
 	804 -> 808
-	805 [label="Minor_Axis_Length < 86.10971832"]
+	805 [label="Minor_Axis_Length < 85.67037201"]
 	804 -> 805
 	807 [label="class = Osmancik"]
 	805 -> 807
 	806 [label="class = Cammeo"]
 	805 -> 806
-	761 [label="Area < 12579"]
+	761 [label="Area < 12576.0"]
 	760 -> 761
-	783 [label="Perimeter < 455.2909851"]
+	783 [label="Perimeter < 455.2859955"]
 	761 -> 783
-	793 [label="Major_Axis_Length < 193.3721466"]
+	793 [label="Major_Axis_Length < 193.1733856"]
 	783 -> 793
-	797 [label="Minor_Axis_Length < 84.3717041"]
+	797 [label="Minor_Axis_Length < 84.34311676"]
 	793 -> 797
 	801 [label="class = Cammeo"]
 	797 -> 801
-	798 [label="Eccentricity < 0.902492881"]
+	798 [label="Eccentricity < 0.90121442"]
 	797 -> 798
 	800 [label="class = Cammeo"]
 	798 -> 800
 	799 [label="class = Osmancik"]
 	798 -> 799
-	794 [label="Minor_Axis_Length < 85.68017578"]
+	794 [label="Minor_Axis_Length < 85.4420166"]
 	793 -> 794
 	796 [label="class = Osmancik"]
 	794 -> 796
 	795 [label="class = Cammeo"]
 	794 -> 795
-	784 [label="Major_Axis_Length < 191.2431793"]
+	784 [label="Major_Axis_Length < 191.15813445"]
 	783 -> 784
-	788 [label="Minor_Axis_Length < 84.61237335"]
+	788 [label="Minor_Axis_Length < 84.60995484"]
 	784 -> 788
 	792 [label="class = Osmancik"]
 	788 -> 792
-	789 [label="Eccentricity < 0.898584485"]
+	789 [label="Eccentricity < 0.89800605"]
 	788 -> 789
 	791 [label="class = Osmancik"]
 	789 -> 791
 	790 [label="class = Cammeo"]
 	789 -> 790
-	785 [label="Minor_Axis_Length < 86.37448883"]
+	785 [label="Minor_Axis_Length < 86.2667923"]
 	784 -> 785
 	787 [label="class = Cammeo"]
 	785 -> 787
 	786 [label="class = Osmancik"]
 	785 -> 786
-	762 [label="Perimeter < 454.1040039"]
+	762 [label="Perimeter < 454.1000061"]
 	761 -> 762
-	772 [label="Major_Axis_Length < 192.4611511"]
+	772 [label="Major_Axis_Length < 192.27643585"]
 	762 -> 772
-	778 [label="Minor_Axis_Length < 84.02542877"]
+	778 [label="Minor_Axis_Length < 83.71047974"]
 	772 -> 778
 	782 [label="class = Osmancik"]
 	778 -> 782
-	779 [label="Eccentricity < 0.902986825"]
+	779 [label="Eccentricity < 0.90211564"]
 	778 -> 779
 	781 [label="class = Osmancik"]
 	779 -> 781
 	780 [label="class = Cammeo"]
 	779 -> 780
-	773 [label="Minor_Axis_Length < 84.16149902"]
+	773 [label="Minor_Axis_Length < 84.0490036"]
 	772 -> 773
-	775 [label="Eccentricity < 0.898145974"]
+	775 [label="Eccentricity < 0.89793006"]
 	773 -> 775
 	777 [label="class = Osmancik"]
 	775 -> 777
@@ -1567,11 +1567,11 @@ digraph {
 	775 -> 776
 	774 [label="class = Osmancik"]
 	773 -> 774
-	763 [label="Major_Axis_Length < 190.4549408"]
+	763 [label="Major_Axis_Length < 190.17718505"]
 	762 -> 763
-	767 [label="Minor_Axis_Length < 83.66120148"]
+	767 [label="Minor_Axis_Length < 83.60118866"]
 	763 -> 767
-	769 [label="Eccentricity < 0.899980783"]
+	769 [label="Eccentricity < 0.89852041"]
 	767 -> 769
 	771 [label="class = Cammeo"]
 	769 -> 771
@@ -1579,31 +1579,31 @@ digraph {
 	769 -> 770
 	768 [label="class = Osmancik"]
 	767 -> 768
-	764 [label="Minor_Axis_Length < 85.08824921"]
+	764 [label="Minor_Axis_Length < 84.97504807"]
 	763 -> 764
 	766 [label="class = Osmancik"]
 	764 -> 766
 	765 [label="class = Cammeo"]
 	764 -> 765
-	658 [label="Convex_Area < 12903"]
+	658 [label="Convex_Area < 12902.5"]
 	657 -> 658
-	696 [label="Extent < 0.680746138"]
+	696 [label="Extent < 0.6785441"]
 	658 -> 696
-	726 [label="Area < 12840"]
+	726 [label="Area < 12820.0"]
 	696 -> 726
-	742 [label="Perimeter < 458.6560059"]
+	742 [label="Perimeter < 457.92300415"]
 	726 -> 742
-	750 [label="Major_Axis_Length < 189.8730927"]
+	750 [label="Major_Axis_Length < 189.45256045"]
 	742 -> 750
-	752 [label="Minor_Axis_Length < 89.31358337"]
+	752 [label="Minor_Axis_Length < 89.27280808"]
 	750 -> 752
-	756 [label="Eccentricity < 0.886324942"]
+	756 [label="Eccentricity < 0.88475674"]
 	752 -> 756
 	758 [label="class = Cammeo"]
 	756 -> 758
 	757 [label="class = Osmancik"]
 	756 -> 757
-	753 [label="Eccentricity < 0.884700418"]
+	753 [label="Eccentricity < 0.8836951"]
 	752 -> 753
 	755 [label="class = Cammeo"]
 	753 -> 755
@@ -1611,13 +1611,13 @@ digraph {
 	753 -> 754
 	751 [label="class = Osmancik"]
 	750 -> 751
-	743 [label="Major_Axis_Length < 184.8151855"]
+	743 [label="Major_Axis_Length < 184.72561645"]
 	742 -> 743
 	749 [label="class = Osmancik"]
 	743 -> 749
-	744 [label="Minor_Axis_Length < 89.86130524"]
+	744 [label="Minor_Axis_Length < 89.66755676"]
 	743 -> 744
-	746 [label="Eccentricity < 0.873120248"]
+	746 [label="Eccentricity < 0.87311637"]
 	744 -> 746
 	748 [label="class = Osmancik"]
 	746 -> 748
@@ -1625,15 +1625,15 @@ digraph {
 	746 -> 747
 	745 [label="class = Cammeo"]
 	744 -> 745
-	727 [label="Perimeter < 450.723999"]
+	727 [label="Perimeter < 450.53399655"]
 	726 -> 727
-	735 [label="Major_Axis_Length < 185.510849"]
+	735 [label="Major_Axis_Length < 184.8718567"]
 	727 -> 735
 	741 [label="class = Osmancik"]
 	735 -> 741
-	736 [label="Minor_Axis_Length < 89.72113037"]
+	736 [label="Minor_Axis_Length < 89.68108368"]
 	735 -> 736
-	738 [label="Eccentricity < 0.872501254"]
+	738 [label="Eccentricity < 0.87172079"]
 	736 -> 738
 	740 [label="class = Cammeo"]
 	738 -> 740
@@ -1641,13 +1641,13 @@ digraph {
 	738 -> 739
 	737 [label="class = Osmancik"]
 	736 -> 737
-	728 [label="Major_Axis_Length < 184.4046173"]
+	728 [label="Major_Axis_Length < 183.80350495"]
 	727 -> 728
 	734 [label="class = Osmancik"]
 	728 -> 734
-	729 [label="Minor_Axis_Length < 89.68170929"]
+	729 [label="Minor_Axis_Length < 89.5891304"]
 	728 -> 729
-	731 [label="Eccentricity < 0.871341288"]
+	731 [label="Eccentricity < 0.87089273"]
 	729 -> 731
 	733 [label="class = Cammeo"]
 	731 -> 733
@@ -1655,29 +1655,29 @@ digraph {
 	731 -> 732
 	730 [label="class = Osmancik"]
 	729 -> 730
-	697 [label="Area < 12811"]
+	697 [label="Area < 12797.5"]
 	696 -> 697
-	711 [label="Perimeter < 460.8190002"]
+	711 [label="Perimeter < 460.0375061"]
 	697 -> 711
-	713 [label="Major_Axis_Length < 191.9577789"]
+	713 [label="Major_Axis_Length < 191.7103729"]
 	711 -> 713
-	719 [label="Minor_Axis_Length < 89.71348572"]
+	719 [label="Minor_Axis_Length < 89.61019134"]
 	713 -> 719
-	723 [label="Eccentricity < 0.884947598"]
+	723 [label="Eccentricity < 0.88427356"]
 	719 -> 723
 	725 [label="class = Cammeo"]
 	723 -> 725
 	724 [label="class = Osmancik"]
 	723 -> 724
-	720 [label="Eccentricity < 0.886427701"]
+	720 [label="Eccentricity < 0.88599697"]
 	719 -> 720
 	722 [label="class = Cammeo"]
 	720 -> 722
 	721 [label="class = Osmancik"]
 	720 -> 721
-	714 [label="Minor_Axis_Length < 88.95413971"]
+	714 [label="Minor_Axis_Length < 88.86185074"]
 	713 -> 714
-	716 [label="Eccentricity < 0.885519445"]
+	716 [label="Eccentricity < 0.88162252"]
 	714 -> 716
 	718 [label="class = Cammeo"]
 	716 -> 718
@@ -1687,11 +1687,11 @@ digraph {
 	714 -> 715
 	712 [label="class = Osmancik"]
 	711 -> 712
-	698 [label="Perimeter < 456.0669861"]
+	698 [label="Perimeter < 455.4844971"]
 	697 -> 698
-	706 [label="Major_Axis_Length < 186.8068237"]
+	706 [label="Major_Axis_Length < 186.4836807"]
 	698 -> 706
-	708 [label="Minor_Axis_Length < 87.74284363"]
+	708 [label="Minor_Axis_Length < 87.46507264"]
 	706 -> 708
 	710 [label="class = Osmancik"]
 	708 -> 710
@@ -1699,13 +1699,13 @@ digraph {
 	708 -> 709
 	707 [label="class = Osmancik"]
 	706 -> 707
-	699 [label="Major_Axis_Length < 185.6487732"]
+	699 [label="Major_Axis_Length < 185.43707275"]
 	698 -> 699
-	701 [label="Minor_Axis_Length < 87.92713165"]
+	701 [label="Minor_Axis_Length < 87.89791488"]
 	699 -> 701
 	705 [label="class = Osmancik"]
 	701 -> 705
-	702 [label="Eccentricity < 0.883307338"]
+	702 [label="Eccentricity < 0.88294596"]
 	701 -> 702
 	704 [label="class = Cammeo"]
 	702 -> 704
@@ -1713,19 +1713,19 @@ digraph {
 	702 -> 703
 	700 [label="class = Osmancik"]
 	699 -> 700
-	659 [label="Extent < 0.652207792"]
+	659 [label="Extent < 0.64522287"]
 	658 -> 659
-	677 [label="Area < 12555"]
+	677 [label="Area < 12550.5"]
 	659 -> 677
-	687 [label="Perimeter < 445.2980042"]
+	687 [label="Perimeter < 445.12950135"]
 	677 -> 687
 	695 [label="class = Osmancik"]
 	687 -> 695
-	688 [label="Major_Axis_Length < 183.2237549"]
+	688 [label="Major_Axis_Length < 182.0502472"]
 	687 -> 688
-	690 [label="Minor_Axis_Length < 87.62445831"]
+	690 [label="Minor_Axis_Length < 87.49584198"]
 	688 -> 690
-	692 [label="Eccentricity < 0.880637109"]
+	692 [label="Eccentricity < 0.87880027"]
 	690 -> 692
 	694 [label="class = Cammeo"]
 	692 -> 694
@@ -1735,15 +1735,15 @@ digraph {
 	690 -> 691
 	689 [label="class = Osmancik"]
 	688 -> 689
-	678 [label="Perimeter < 443.5859985"]
+	678 [label="Perimeter < 443.4790039"]
 	677 -> 678
-	680 [label="Major_Axis_Length < 184.014328"]
+	680 [label="Major_Axis_Length < 183.2470627"]
 	678 -> 680
-	682 [label="Minor_Axis_Length < 87.13018036"]
+	682 [label="Minor_Axis_Length < 86.99496841"]
 	680 -> 682
 	686 [label="class = Osmancik"]
 	682 -> 686
-	683 [label="Eccentricity < 0.886315942"]
+	683 [label="Eccentricity < 0.8846156"]
 	682 -> 683
 	685 [label="class = Osmancik"]
 	683 -> 685
@@ -1753,15 +1753,15 @@ digraph {
 	680 -> 681
 	679 [label="class = Osmancik"]
 	678 -> 679
-	660 [label="Area < 12512"]
+	660 [label="Area < 12511.5"]
 	659 -> 660
-	670 [label="Perimeter < 448.6369934"]
+	670 [label="Perimeter < 448.4869995"]
 	660 -> 670
 	676 [label="class = Osmancik"]
 	670 -> 676
-	671 [label="Major_Axis_Length < 182.9328308"]
+	671 [label="Major_Axis_Length < 182.7980423"]
 	670 -> 671
-	673 [label="Minor_Axis_Length < 88.51618958"]
+	673 [label="Minor_Axis_Length < 88.37650681"]
 	671 -> 673
 	675 [label="class = Cammeo"]
 	673 -> 675
@@ -1769,13 +1769,13 @@ digraph {
 	673 -> 674
 	672 [label="class = Osmancik"]
 	671 -> 672
-	661 [label="Perimeter < 448.5390015"]
+	661 [label="Perimeter < 447.51350405"]
 	660 -> 661
-	663 [label="Major_Axis_Length < 184.417038"]
+	663 [label="Major_Axis_Length < 184.19700625"]
 	661 -> 663
-	665 [label="Minor_Axis_Length < 87.4606781"]
+	665 [label="Minor_Axis_Length < 87.35614395"]
 	663 -> 665
-	667 [label="Eccentricity < 0.881452441"]
+	667 [label="Eccentricity < 0.87998089"]
 	665 -> 667
 	669 [label="class = Cammeo"]
 	667 -> 669
@@ -1789,71 +1789,71 @@ digraph {
 	661 -> 662
 	1 [label="Perimeter < 426.1380005"]
 	0 -> 1
-	79 [label="Major_Axis_Length < 180.3164215"]
+	79 [label="Major_Axis_Length < 180.3099518"]
 	1 -> 79
-	153 [label="Minor_Axis_Length < 82.14076233"]
+	153 [label="Minor_Axis_Length < 82.13294602"]
 	79 -> 153
-	407 [label="Eccentricity < 0.88927561"]
+	407 [label="Eccentricity < 0.88912889"]
 	153 -> 407
-	515 [label="Convex_Area < 12408"]
+	515 [label="Convex_Area < 12406.0"]
 	407 -> 515
-	569 [label="Extent < 0.651668072"]
+	569 [label="Extent < 0.65087175"]
 	515 -> 569
-	609 [label="Area < 12267"]
+	609 [label="Area < 12263.5"]
 	569 -> 609
-	631 [label="Perimeter < 450.3259888"]
+	631 [label="Perimeter < 450.0329895"]
 	609 -> 631
-	641 [label="Major_Axis_Length < 190.7417755"]
+	641 [label="Major_Axis_Length < 190.70768735"]
 	631 -> 641
-	649 [label="Minor_Axis_Length < 82.85999298"]
+	649 [label="Minor_Axis_Length < 82.70645142"]
 	641 -> 649
 	653 [label="class = Osmancik"]
 	649 -> 653
-	650 [label="Eccentricity < 0.905274093"]
+	650 [label="Eccentricity < 0.90442875"]
 	649 -> 650
 	652 [label="class = Cammeo"]
 	650 -> 652
 	651 [label="class = Osmancik"]
 	650 -> 651
-	642 [label="Minor_Axis_Length < 85.17218781"]
+	642 [label="Minor_Axis_Length < 84.12500763"]
 	641 -> 642
-	646 [label="Eccentricity < 0.891269088"]
+	646 [label="Eccentricity < 0.89034393"]
 	642 -> 646
 	648 [label="class = Osmancik"]
 	646 -> 648
 	647 [label="class = Cammeo"]
 	646 -> 647
-	643 [label="Eccentricity < 0.900239646"]
+	643 [label="Eccentricity < 0.8996354"]
 	642 -> 643
 	645 [label="class = Cammeo"]
 	643 -> 645
 	644 [label="class = Osmancik"]
 	643 -> 644
-	632 [label="Major_Axis_Length < 188.5073853"]
+	632 [label="Major_Axis_Length < 187.4301224"]
 	631 -> 632
-	636 [label="Minor_Axis_Length < 83.51945496"]
+	636 [label="Minor_Axis_Length < 83.36229706"]
 	632 -> 636
 	640 [label="class = Osmancik"]
 	636 -> 640
-	637 [label="Eccentricity < 0.899452269"]
+	637 [label="Eccentricity < 0.89898881"]
 	636 -> 637
 	639 [label="class = Cammeo"]
 	637 -> 639
 	638 [label="class = Osmancik"]
 	637 -> 638
-	633 [label="Minor_Axis_Length < 84.85929871"]
+	633 [label="Minor_Axis_Length < 84.77001954"]
 	632 -> 633
 	635 [label="class = Osmancik"]
 	633 -> 635
 	634 [label="class = Cammeo"]
 	633 -> 634
-	610 [label="Perimeter < 450.6659851"]
+	610 [label="Perimeter < 450.6124878"]
 	609 -> 610
-	620 [label="Major_Axis_Length < 190.8468628"]
+	620 [label="Major_Axis_Length < 189.9602661"]
 	610 -> 620
-	626 [label="Minor_Axis_Length < 83.03070831"]
+	626 [label="Minor_Axis_Length < 82.67406845"]
 	620 -> 626
-	628 [label="Eccentricity < 0.900399268"]
+	628 [label="Eccentricity < 0.89965794"]
 	626 -> 628
 	630 [label="class = Osmancik"]
 	628 -> 630
@@ -1861,75 +1861,75 @@ digraph {
 	628 -> 629
 	627 [label="class = Cammeo"]
 	626 -> 627
-	621 [label="Minor_Axis_Length < 84.3818512"]
+	621 [label="Minor_Axis_Length < 84.09521866"]
 	620 -> 621
 	625 [label="class = Osmancik"]
 	621 -> 625
-	622 [label="Eccentricity < 0.896393657"]
+	622 [label="Eccentricity < 0.89584088"]
 	621 -> 622
 	624 [label="class = Osmancik"]
 	622 -> 624
 	623 [label="class = Cammeo"]
 	622 -> 623
-	611 [label="Major_Axis_Length < 187.6625366"]
+	611 [label="Major_Axis_Length < 187.6023407"]
 	610 -> 611
-	615 [label="Minor_Axis_Length < 83.71768951"]
+	615 [label="Minor_Axis_Length < 83.17851638"]
 	611 -> 615
 	619 [label="class = Osmancik"]
 	615 -> 619
-	616 [label="Eccentricity < 0.90163976"]
+	616 [label="Eccentricity < 0.90133894"]
 	615 -> 616
 	618 [label="class = Cammeo"]
 	616 -> 618
 	617 [label="class = Osmancik"]
 	616 -> 617
-	612 [label="Minor_Axis_Length < 84.0381012"]
+	612 [label="Minor_Axis_Length < 83.72568512"]
 	611 -> 612
 	614 [label="class = Osmancik"]
 	612 -> 614
 	613 [label="class = Cammeo"]
 	612 -> 613
-	570 [label="Area < 12340"]
+	570 [label="Area < 12339.5"]
 	569 -> 570
-	586 [label="Perimeter < 454.3909912"]
+	586 [label="Perimeter < 453.996994"]
 	570 -> 586
-	596 [label="Major_Axis_Length < 191.2494965"]
+	596 [label="Major_Axis_Length < 191.05993655"]
 	586 -> 596
-	602 [label="Minor_Axis_Length < 83.44985962"]
+	602 [label="Minor_Axis_Length < 83.2416687"]
 	596 -> 602
-	606 [label="Eccentricity < 0.900137126"]
+	606 [label="Eccentricity < 0.89926106"]
 	602 -> 606
 	608 [label="class = Cammeo"]
 	606 -> 608
 	607 [label="class = Osmancik"]
 	606 -> 607
-	603 [label="Eccentricity < 0.906600714"]
+	603 [label="Eccentricity < 0.90406954"]
 	602 -> 603
 	605 [label="class = Cammeo"]
 	603 -> 605
 	604 [label="class = Osmancik"]
 	603 -> 604
-	597 [label="Minor_Axis_Length < 85.17462921"]
+	597 [label="Minor_Axis_Length < 85.1329155"]
 	596 -> 597
 	601 [label="class = Osmancik"]
 	597 -> 601
-	598 [label="Eccentricity < 0.895129502"]
+	598 [label="Eccentricity < 0.89495409"]
 	597 -> 598
 	600 [label="class = Cammeo"]
 	598 -> 600
 	599 [label="class = Osmancik"]
 	598 -> 599
-	587 [label="Major_Axis_Length < 188.5623016"]
+	587 [label="Major_Axis_Length < 188.26551815"]
 	586 -> 587
-	589 [label="Minor_Axis_Length < 84.28502655"]
+	589 [label="Minor_Axis_Length < 84.06759644"]
 	587 -> 589
-	593 [label="Eccentricity < 0.89573288"]
+	593 [label="Eccentricity < 0.89374676"]
 	589 -> 593
 	595 [label="class = Osmancik"]
 	593 -> 595
 	594 [label="class = Cammeo"]
 	593 -> 594
-	590 [label="Eccentricity < 0.899880886"]
+	590 [label="Eccentricity < 0.89868954"]
 	589 -> 590
 	592 [label="class = Cammeo"]
 	590 -> 592
@@ -1937,29 +1937,29 @@ digraph {
 	590 -> 591
 	588 [label="class = Osmancik"]
 	587 -> 588
-	571 [label="Perimeter < 450.1549988"]
+	571 [label="Perimeter < 450.15049745"]
 	570 -> 571
-	579 [label="Major_Axis_Length < 190.1193237"]
+	579 [label="Major_Axis_Length < 190.04522705"]
 	571 -> 579
 	585 [label="class = Osmancik"]
 	579 -> 585
-	580 [label="Minor_Axis_Length < 83.10529327"]
+	580 [label="Minor_Axis_Length < 82.9330368"]
 	579 -> 580
 	584 [label="class = Cammeo"]
 	580 -> 584
-	581 [label="Eccentricity < 0.900093436"]
+	581 [label="Eccentricity < 0.90000203"]
 	580 -> 581
 	583 [label="class = Cammeo"]
 	581 -> 583
 	582 [label="class = Osmancik"]
 	581 -> 582
-	572 [label="Major_Axis_Length < 187.2999268"]
+	572 [label="Major_Axis_Length < 187.04099275"]
 	571 -> 572
-	574 [label="Minor_Axis_Length < 83.90933228"]
+	574 [label="Minor_Axis_Length < 83.63978577"]
 	572 -> 574
 	578 [label="class = Cammeo"]
 	574 -> 578
-	575 [label="Eccentricity < 0.896066248"]
+	575 [label="Eccentricity < 0.89594135"]
 	574 -> 575
 	577 [label="class = Cammeo"]
 	575 -> 577
@@ -1967,19 +1967,19 @@ digraph {
 	575 -> 576
 	573 [label="class = Osmancik"]
 	572 -> 573
-	516 [label="Extent < 0.619011998"]
+	516 [label="Extent < 0.61812493"]
 	515 -> 516
-	536 [label="Area < 11907"]
+	536 [label="Area < 11906.0"]
 	516 -> 536
-	554 [label="Perimeter < 445.1010132"]
+	554 [label="Perimeter < 444.5675049"]
 	536 -> 554
-	562 [label="Major_Axis_Length < 187.920517"]
+	562 [label="Major_Axis_Length < 187.212822"]
 	554 -> 562
-	564 [label="Minor_Axis_Length < 82.71679688"]
+	564 [label="Minor_Axis_Length < 82.4892807"]
 	562 -> 564
 	568 [label="class = Osmancik"]
 	564 -> 568
-	565 [label="Eccentricity < 0.899529576"]
+	565 [label="Eccentricity < 0.89946848"]
 	564 -> 565
 	567 [label="class = Osmancik"]
 	565 -> 567
@@ -1987,13 +1987,13 @@ digraph {
 	565 -> 566
 	563 [label="class = Osmancik"]
 	562 -> 563
-	555 [label="Major_Axis_Length < 185.2654114"]
+	555 [label="Major_Axis_Length < 185.13253785"]
 	554 -> 555
-	557 [label="Minor_Axis_Length < 83.16057587"]
+	557 [label="Minor_Axis_Length < 83.09235001"]
 	555 -> 557
 	561 [label="class = Osmancik"]
 	557 -> 561
-	558 [label="Eccentricity < 0.898634791"]
+	558 [label="Eccentricity < 0.89673579"]
 	557 -> 558
 	560 [label="class = Cammeo"]
 	558 -> 560
@@ -2001,13 +2001,13 @@ digraph {
 	558 -> 559
 	556 [label="class = Osmancik"]
 	555 -> 556
-	537 [label="Perimeter < 436.2529907"]
+	537 [label="Perimeter < 435.72698975"]
 	536 -> 537
-	545 [label="Major_Axis_Length < 184.635376"]
+	545 [label="Major_Axis_Length < 184.38536075"]
 	537 -> 545
-	549 [label="Minor_Axis_Length < 83.60573578"]
+	549 [label="Minor_Axis_Length < 82.89032364"]
 	545 -> 549
-	551 [label="Eccentricity < 0.892553151"]
+	551 [label="Eccentricity < 0.89247191"]
 	549 -> 551
 	553 [label="class = Cammeo"]
 	551 -> 553
@@ -2015,17 +2015,17 @@ digraph {
 	551 -> 552
 	550 [label="class = Osmancik"]
 	549 -> 550
-	546 [label="Minor_Axis_Length < 82.626091"]
+	546 [label="Minor_Axis_Length < 82.61084747"]
 	545 -> 546
 	548 [label="class = Cammeo"]
 	546 -> 548
 	547 [label="class = Osmancik"]
 	546 -> 547
-	538 [label="Major_Axis_Length < 181.4844055"]
+	538 [label="Major_Axis_Length < 181.3594589"]
 	537 -> 538
-	540 [label="Minor_Axis_Length < 82.97145081"]
+	540 [label="Minor_Axis_Length < 82.763237"]
 	538 -> 540
-	542 [label="Eccentricity < 0.890769541"]
+	542 [label="Eccentricity < 0.89007127"]
 	540 -> 542
 	544 [label="class = Osmancik"]
 	542 -> 544
@@ -2035,21 +2035,21 @@ digraph {
 	540 -> 541
 	539 [label="class = Osmancik"]
 	538 -> 539
-	517 [label="Area < 11881"]
+	517 [label="Area < 11863.5"]
 	516 -> 517
-	519 [label="Perimeter < 441.2850037"]
+	519 [label="Perimeter < 441.17250065"]
 	517 -> 519
-	527 [label="Major_Axis_Length < 187.1829071"]
+	527 [label="Major_Axis_Length < 186.971611"]
 	519 -> 527
-	529 [label="Minor_Axis_Length < 82.64057159"]
+	529 [label="Minor_Axis_Length < 82.56751251"]
 	527 -> 529
-	533 [label="Eccentricity < 0.897434235"]
+	533 [label="Eccentricity < 0.89734864"]
 	529 -> 533
 	535 [label="class = Osmancik"]
 	533 -> 535
 	534 [label="class = Cammeo"]
 	533 -> 534
-	530 [label="Eccentricity < 0.900855184"]
+	530 [label="Eccentricity < 0.89992628"]
 	529 -> 530
 	532 [label="class = Osmancik"]
 	530 -> 532
@@ -2057,11 +2057,11 @@ digraph {
 	530 -> 531
 	528 [label="class = Osmancik"]
 	527 -> 528
-	520 [label="Major_Axis_Length < 184.6437073"]
+	520 [label="Major_Axis_Length < 184.26661685"]
 	519 -> 520
-	522 [label="Minor_Axis_Length < 83.21842194"]
+	522 [label="Minor_Axis_Length < 82.76481628"]
 	520 -> 522
-	524 [label="Eccentricity < 0.89267683"]
+	524 [label="Eccentricity < 0.89250958"]
 	522 -> 524
 	526 [label="class = Cammeo"]
 	524 -> 526
@@ -2073,19 +2073,19 @@ digraph {
 	520 -> 521
 	518 [label="class = Osmancik"]
 	517 -> 518
-	408 [label="Convex_Area < 12378"]
+	408 [label="Convex_Area < 12376.5"]
 	407 -> 408
-	458 [label="Extent < 0.632780492"]
+	458 [label="Extent < 0.63218245"]
 	408 -> 458
-	480 [label="Area < 12280"]
+	480 [label="Area < 12277.5"]
 	458 -> 480
-	496 [label="Perimeter < 444.8869934"]
+	496 [label="Perimeter < 444.6549988"]
 	480 -> 496
-	504 [label="Major_Axis_Length < 184.3671875"]
+	504 [label="Major_Axis_Length < 183.8279495"]
 	496 -> 504
-	510 [label="Minor_Axis_Length < 86.23738098"]
+	510 [label="Minor_Axis_Length < 86.14388275"]
 	504 -> 510
-	512 [label="Eccentricity < 0.885736704"]
+	512 [label="Eccentricity < 0.8836388"]
 	510 -> 512
 	514 [label="class = Cammeo"]
 	512 -> 514
@@ -2093,21 +2093,21 @@ digraph {
 	512 -> 513
 	511 [label="class = Osmancik"]
 	510 -> 511
-	505 [label="Minor_Axis_Length < 87.02767944"]
+	505 [label="Minor_Axis_Length < 86.92851638"]
 	504 -> 505
 	509 [label="class = Osmancik"]
 	505 -> 509
-	506 [label="Eccentricity < 0.880958438"]
+	506 [label="Eccentricity < 0.88036704"]
 	505 -> 506
 	508 [label="class = Cammeo"]
 	506 -> 508
 	507 [label="class = Osmancik"]
 	506 -> 507
-	497 [label="Major_Axis_Length < 181.8926849"]
+	497 [label="Major_Axis_Length < 181.45205685"]
 	496 -> 497
-	499 [label="Minor_Axis_Length < 86.87766266"]
+	499 [label="Minor_Axis_Length < 86.79673004"]
 	497 -> 499
-	501 [label="Eccentricity < 0.878560305"]
+	501 [label="Eccentricity < 0.87728524"]
 	499 -> 501
 	503 [label="class = Cammeo"]
 	501 -> 503
@@ -2117,15 +2117,15 @@ digraph {
 	499 -> 500
 	498 [label="class = Osmancik"]
 	497 -> 498
-	481 [label="Perimeter < 442.6019897"]
+	481 [label="Perimeter < 442.51148985"]
 	480 -> 481
-	489 [label="Major_Axis_Length < 183.9394684"]
+	489 [label="Major_Axis_Length < 183.8887787"]
 	481 -> 489
-	491 [label="Minor_Axis_Length < 85.57202148"]
+	491 [label="Minor_Axis_Length < 85.47176361"]
 	489 -> 491
 	495 [label="class = Osmancik"]
 	491 -> 495
-	492 [label="Eccentricity < 0.887194812"]
+	492 [label="Eccentricity < 0.8868947"]
 	491 -> 492
 	494 [label="class = Cammeo"]
 	492 -> 494
@@ -2133,11 +2133,11 @@ digraph {
 	492 -> 493
 	490 [label="class = Osmancik"]
 	489 -> 490
-	482 [label="Major_Axis_Length < 182.4621277"]
+	482 [label="Major_Axis_Length < 182.0842514"]
 	481 -> 482
-	484 [label="Minor_Axis_Length < 85.51346588"]
+	484 [label="Minor_Axis_Length < 85.5057106"]
 	482 -> 484
-	486 [label="Eccentricity < 0.884164274"]
+	486 [label="Eccentricity < 0.88377035"]
 	484 -> 486
 	488 [label="class = Osmancik"]
 	486 -> 488
@@ -2147,41 +2147,41 @@ digraph {
 	484 -> 485
 	483 [label="class = Osmancik"]
 	482 -> 483
-	459 [label="Area < 12303"]
+	459 [label="Area < 12298.0"]
 	458 -> 459
 	479 [label="class = Osmancik"]
 	459 -> 479
-	460 [label="Perimeter < 445.0480042"]
+	460 [label="Perimeter < 444.6699982"]
 	459 -> 460
-	468 [label="Major_Axis_Length < 184.0501556"]
+	468 [label="Major_Axis_Length < 183.19245145"]
 	460 -> 468
-	474 [label="Minor_Axis_Length < 85.78560638"]
+	474 [label="Minor_Axis_Length < 85.40350723"]
 	468 -> 474
 	478 [label="class = Osmancik"]
 	474 -> 478
-	475 [label="Eccentricity < 0.887978971"]
+	475 [label="Eccentricity < 0.88762587"]
 	474 -> 475
 	477 [label="class = Osmancik"]
 	475 -> 477
 	476 [label="class = Cammeo"]
 	475 -> 476
-	469 [label="Minor_Axis_Length < 87.40585327"]
+	469 [label="Minor_Axis_Length < 86.97886276"]
 	468 -> 469
 	473 [label="class = Osmancik"]
 	469 -> 473
-	470 [label="Eccentricity < 0.880978882"]
+	470 [label="Eccentricity < 0.8799558"]
 	469 -> 470
 	472 [label="class = Cammeo"]
 	470 -> 472
 	471 [label="class = Osmancik"]
 	470 -> 471
-	461 [label="Major_Axis_Length < 180.956604"]
+	461 [label="Major_Axis_Length < 180.91600035"]
 	460 -> 461
-	463 [label="Minor_Axis_Length < 86.59350586"]
+	463 [label="Minor_Axis_Length < 86.47919845"]
 	461 -> 463
 	467 [label="class = Osmancik"]
 	463 -> 467
-	464 [label="Eccentricity < 0.880998671"]
+	464 [label="Eccentricity < 0.88042501"]
 	463 -> 464
 	466 [label="class = Cammeo"]
 	464 -> 466
@@ -2189,23 +2189,23 @@ digraph {
 	464 -> 465
 	462 [label="class = Osmancik"]
 	461 -> 462
-	409 [label="Extent < 0.634294093"]
+	409 [label="Extent < 0.63365859"]
 	408 -> 409
-	429 [label="Area < 12057"]
+	429 [label="Area < 12056.5"]
 	409 -> 429
-	447 [label="Perimeter < 436.6090088"]
+	447 [label="Perimeter < 436.44700625"]
 	429 -> 447
-	449 [label="Major_Axis_Length < 182.2872925"]
+	449 [label="Major_Axis_Length < 182.0876465"]
 	447 -> 449
-	451 [label="Minor_Axis_Length < 85.17786407"]
+	451 [label="Minor_Axis_Length < 84.93785858"]
 	449 -> 451
-	455 [label="Eccentricity < 0.886326075"]
+	455 [label="Eccentricity < 0.88472092"]
 	451 -> 455
 	457 [label="class = Osmancik"]
 	455 -> 457
 	456 [label="class = Cammeo"]
 	455 -> 456
-	452 [label="Eccentricity < 0.888982177"]
+	452 [label="Eccentricity < 0.88809797"]
 	451 -> 452
 	454 [label="class = Osmancik"]
 	452 -> 454
@@ -2215,13 +2215,13 @@ digraph {
 	449 -> 450
 	448 [label="class = Osmancik"]
 	447 -> 448
-	430 [label="Perimeter < 437.4509888"]
+	430 [label="Perimeter < 436.5609894"]
 	429 -> 430
-	436 [label="Major_Axis_Length < 182.3555756"]
+	436 [label="Major_Axis_Length < 182.2661591"]
 	430 -> 436
-	442 [label="Minor_Axis_Length < 85.03505707"]
+	442 [label="Minor_Axis_Length < 84.73101425"]
 	436 -> 442
-	444 [label="Eccentricity < 0.884818316"]
+	444 [label="Eccentricity < 0.88477254"]
 	442 -> 444
 	446 [label="class = Cammeo"]
 	444 -> 446
@@ -2229,39 +2229,39 @@ digraph {
 	444 -> 445
 	443 [label="class = Osmancik"]
 	442 -> 443
-	437 [label="Minor_Axis_Length < 85.04359436"]
+	437 [label="Minor_Axis_Length < 85.01888275"]
 	436 -> 437
 	441 [label="class = Osmancik"]
 	437 -> 441
-	438 [label="Eccentricity < 0.887531638"]
+	438 [label="Eccentricity < 0.88550961"]
 	437 -> 438
 	440 [label="class = Cammeo"]
 	438 -> 440
 	439 [label="class = Osmancik"]
 	438 -> 439
-	431 [label="Major_Axis_Length < 181.2904663"]
+	431 [label="Major_Axis_Length < 181.09825135"]
 	430 -> 431
 	435 [label="class = Osmancik"]
 	431 -> 435
-	432 [label="Minor_Axis_Length < 83.27078247"]
+	432 [label="Minor_Axis_Length < 82.94636917"]
 	431 -> 432
 	434 [label="class = Osmancik"]
 	432 -> 434
 	433 [label="class = Cammeo"]
 	432 -> 433
-	410 [label="Area < 11960"]
+	410 [label="Area < 11956.5"]
 	409 -> 410
-	420 [label="Perimeter < 441.2829895"]
+	420 [label="Perimeter < 441.1124878"]
 	410 -> 420
-	422 [label="Major_Axis_Length < 182.4339905"]
+	422 [label="Major_Axis_Length < 182.1151352"]
 	420 -> 422
 	428 [label="class = Osmancik"]
 	422 -> 428
-	423 [label="Minor_Axis_Length < 85.57943726"]
+	423 [label="Minor_Axis_Length < 85.49951935"]
 	422 -> 423
 	427 [label="class = Osmancik"]
 	423 -> 427
-	424 [label="Eccentricity < 0.88273859"]
+	424 [label="Eccentricity < 0.88231689"]
 	423 -> 424
 	426 [label="class = Cammeo"]
 	424 -> 426
@@ -2269,15 +2269,15 @@ digraph {
 	424 -> 425
 	421 [label="class = Osmancik"]
 	420 -> 421
-	411 [label="Perimeter < 440.256012"]
+	411 [label="Perimeter < 440.08750915"]
 	410 -> 411
-	413 [label="Major_Axis_Length < 181.7682648"]
+	413 [label="Major_Axis_Length < 181.54576875"]
 	411 -> 413
 	419 [label="class = Osmancik"]
 	413 -> 419
-	414 [label="Minor_Axis_Length < 83.45518494"]
+	414 [label="Minor_Axis_Length < 83.45411301"]
 	413 -> 414
-	416 [label="Eccentricity < 0.887628555"]
+	416 [label="Eccentricity < 0.88715789"]
 	414 -> 416
 	418 [label="class = Osmancik"]
 	416 -> 418
@@ -2287,39 +2287,39 @@ digraph {
 	414 -> 415
 	412 [label="class = Osmancik"]
 	411 -> 412
-	154 [label="Eccentricity < 0.90738374"]
+	154 [label="Eccentricity < 0.90733707"]
 	153 -> 154
-	280 [label="Convex_Area < 12027"]
+	280 [label="Convex_Area < 12018.5"]
 	154 -> 280
-	346 [label="Extent < 0.636943638"]
+	346 [label="Extent < 0.63331208"]
 	280 -> 346
-	378 [label="Area < 12072"]
+	378 [label="Area < 12033.5"]
 	346 -> 378
-	390 [label="Perimeter < 460.0020142"]
+	390 [label="Perimeter < 458.7570038"]
 	378 -> 390
-	398 [label="Major_Axis_Length < 201.9013062"]
+	398 [label="Major_Axis_Length < 200.21150975"]
 	390 -> 398
 	406 [label="class = Cammeo"]
 	398 -> 406
-	399 [label="Minor_Axis_Length < 80.84041595"]
+	399 [label="Minor_Axis_Length < 80.6912384"]
 	398 -> 399
-	403 [label="Eccentricity < 0.91163677"]
+	403 [label="Eccentricity < 0.90970612"]
 	399 -> 403
 	405 [label="class = Osmancik"]
 	403 -> 405
 	404 [label="class = Cammeo"]
 	403 -> 404
-	400 [label="Eccentricity < 0.914728403"]
+	400 [label="Eccentricity < 0.91405728"]
 	399 -> 400
 	402 [label="class = Osmancik"]
 	400 -> 402
 	401 [label="class = Cammeo"]
 	400 -> 401
-	391 [label="Major_Axis_Length < 195.5704041"]
+	391 [label="Major_Axis_Length < 195.02889255"]
 	390 -> 391
-	393 [label="Minor_Axis_Length < 80.09986877"]
+	393 [label="Minor_Axis_Length < 79.21143722"]
 	391 -> 393
-	395 [label="Eccentricity < 0.912278473"]
+	395 [label="Eccentricity < 0.91163644"]
 	393 -> 395
 	397 [label="class = Osmancik"]
 	395 -> 397
@@ -2329,83 +2329,83 @@ digraph {
 	393 -> 394
 	392 [label="class = Cammeo"]
 	391 -> 392
-	379 [label="Perimeter < 455.8179932"]
+	379 [label="Perimeter < 455.51950075"]
 	378 -> 379
 	389 [label="class = Cammeo"]
 	379 -> 389
-	380 [label="Major_Axis_Length < 192.6842957"]
+	380 [label="Major_Axis_Length < 192.3692856"]
 	379 -> 380
-	384 [label="Minor_Axis_Length < 78.6872406"]
+	384 [label="Minor_Axis_Length < 78.55938721"]
 	380 -> 384
 	388 [label="class = Cammeo"]
 	384 -> 388
-	385 [label="Eccentricity < 0.917701066"]
+	385 [label="Eccentricity < 0.91652578"]
 	384 -> 385
 	387 [label="class = Osmancik"]
 	385 -> 387
 	386 [label="class = Cammeo"]
 	385 -> 386
-	381 [label="Minor_Axis_Length < 79.93447876"]
+	381 [label="Minor_Axis_Length < 79.51683426"]
 	380 -> 381
 	383 [label="class = Osmancik"]
 	381 -> 383
 	382 [label="class = Cammeo"]
 	381 -> 382
-	347 [label="Area < 12181"]
+	347 [label="Area < 12136.5"]
 	346 -> 347
-	363 [label="Perimeter < 463.1549988"]
+	363 [label="Perimeter < 461.1609955"]
 	347 -> 363
-	371 [label="Major_Axis_Length < 202.6878052"]
+	371 [label="Major_Axis_Length < 201.64154055"]
 	363 -> 371
 	377 [label="class = Cammeo"]
 	371 -> 377
-	372 [label="Minor_Axis_Length < 81.60153198"]
+	372 [label="Minor_Axis_Length < 80.76251221"]
 	371 -> 372
 	376 [label="class = Cammeo"]
 	372 -> 376
-	373 [label="Eccentricity < 0.918738961"]
+	373 [label="Eccentricity < 0.91796851"]
 	372 -> 373
 	375 [label="class = Cammeo"]
 	373 -> 375
 	374 [label="class = Osmancik"]
 	373 -> 374
-	364 [label="Major_Axis_Length < 194.8883209"]
+	364 [label="Major_Axis_Length < 194.87174225"]
 	363 -> 364
-	368 [label="Minor_Axis_Length < 81.28996277"]
+	368 [label="Minor_Axis_Length < 81.14044953"]
 	364 -> 368
 	370 [label="class = Osmancik"]
 	368 -> 370
 	369 [label="class = Cammeo"]
 	368 -> 369
-	365 [label="Minor_Axis_Length < 81.17553711"]
+	365 [label="Minor_Axis_Length < 80.73020172"]
 	364 -> 365
 	367 [label="class = Osmancik"]
 	365 -> 367
 	366 [label="class = Cammeo"]
 	365 -> 366
-	348 [label="Perimeter < 457.7390137"]
+	348 [label="Perimeter < 457.292511"]
 	347 -> 348
-	356 [label="Major_Axis_Length < 196.9492493"]
+	356 [label="Major_Axis_Length < 196.74214935"]
 	348 -> 356
 	362 [label="class = Cammeo"]
 	356 -> 362
-	357 [label="Minor_Axis_Length < 79.72299194"]
+	357 [label="Minor_Axis_Length < 79.68284988"]
 	356 -> 357
 	361 [label="class = Cammeo"]
 	357 -> 361
-	358 [label="Eccentricity < 0.914350748"]
+	358 [label="Eccentricity < 0.91361004"]
 	357 -> 358
 	360 [label="class = Cammeo"]
 	358 -> 360
 	359 [label="class = Osmancik"]
 	358 -> 359
-	349 [label="Major_Axis_Length < 194.2702637"]
+	349 [label="Major_Axis_Length < 193.8918915"]
 	348 -> 349
-	351 [label="Minor_Axis_Length < 79.35068512"]
+	351 [label="Minor_Axis_Length < 78.8598938"]
 	349 -> 351
 	355 [label="class = Cammeo"]
 	351 -> 355
-	352 [label="Eccentricity < 0.91786015"]
+	352 [label="Eccentricity < 0.9169358"]
 	351 -> 352
 	354 [label="class = Osmancik"]
 	352 -> 354
@@ -2413,17 +2413,17 @@ digraph {
 	352 -> 353
 	350 [label="class = Cammeo"]
 	349 -> 350
-	281 [label="Extent < 0.58600527"]
+	281 [label="Extent < 0.58515194"]
 	280 -> 281
-	319 [label="Area < 11350"]
+	319 [label="Area < 11341.0"]
 	281 -> 319
-	333 [label="Perimeter < 446.6950073"]
+	333 [label="Perimeter < 446.4889984"]
 	319 -> 333
-	339 [label="Major_Axis_Length < 193.1208649"]
+	339 [label="Major_Axis_Length < 192.8554306"]
 	333 -> 339
-	341 [label="Minor_Axis_Length < 77.05213165"]
+	341 [label="Minor_Axis_Length < 76.21707535"]
 	339 -> 341
-	343 [label="Eccentricity < 0.916957915"]
+	343 [label="Eccentricity < 0.9163104"]
 	341 -> 343
 	345 [label="class = Osmancik"]
 	343 -> 345
@@ -2433,9 +2433,9 @@ digraph {
 	341 -> 342
 	340 [label="class = Osmancik"]
 	339 -> 340
-	334 [label="Major_Axis_Length < 189.7222137"]
+	334 [label="Major_Axis_Length < 189.1822052"]
 	333 -> 334
-	336 [label="Minor_Axis_Length < 78.48375702"]
+	336 [label="Minor_Axis_Length < 78.08463288"]
 	334 -> 336
 	338 [label="class = Osmancik"]
 	336 -> 338
@@ -2443,25 +2443,25 @@ digraph {
 	336 -> 337
 	335 [label="class = Osmancik"]
 	334 -> 335
-	320 [label="Perimeter < 432.7690125"]
+	320 [label="Perimeter < 432.71200565"]
 	319 -> 320
-	322 [label="Major_Axis_Length < 191.0913239"]
+	322 [label="Major_Axis_Length < 190.6696854"]
 	320 -> 322
-	328 [label="Minor_Axis_Length < 74.847435"]
+	328 [label="Minor_Axis_Length < 74.19802094"]
 	322 -> 328
 	332 [label="class = Cammeo"]
 	328 -> 332
-	329 [label="Eccentricity < 0.928163648"]
+	329 [label="Eccentricity < 0.92556363"]
 	328 -> 329
 	331 [label="class = Osmancik"]
 	329 -> 331
 	330 [label="class = Cammeo"]
 	329 -> 330
-	323 [label="Minor_Axis_Length < 76.30805969"]
+	323 [label="Minor_Axis_Length < 75.09340668"]
 	322 -> 323
 	327 [label="class = Osmancik"]
 	323 -> 327
-	324 [label="Eccentricity < 0.933059335"]
+	324 [label="Eccentricity < 0.92729014"]
 	323 -> 324
 	326 [label="class = Cammeo"]
 	324 -> 326
@@ -2469,43 +2469,43 @@ digraph {
 	324 -> 325
 	321 [label="class = Osmancik"]
 	320 -> 321
-	282 [label="Area < 11386"]
+	282 [label="Area < 11381.5"]
 	281 -> 282
-	298 [label="Perimeter < 448.6830139"]
+	298 [label="Perimeter < 448.0145111"]
 	282 -> 298
-	308 [label="Major_Axis_Length < 195.460434"]
+	308 [label="Major_Axis_Length < 195.2482834"]
 	298 -> 308
-	314 [label="Minor_Axis_Length < 75.979599"]
+	314 [label="Minor_Axis_Length < 75.91124344"]
 	308 -> 314
 	318 [label="class = Cammeo"]
 	314 -> 318
-	315 [label="Eccentricity < 0.924609005"]
+	315 [label="Eccentricity < 0.92312962"]
 	314 -> 315
 	317 [label="class = Osmancik"]
 	315 -> 317
 	316 [label="class = Cammeo"]
 	315 -> 316
-	309 [label="Minor_Axis_Length < 77.74389648"]
+	309 [label="Minor_Axis_Length < 77.45681"]
 	308 -> 309
 	313 [label="class = Cammeo"]
 	309 -> 313
-	310 [label="Eccentricity < 0.918923914"]
+	310 [label="Eccentricity < 0.91733816"]
 	309 -> 310
 	312 [label="class = Cammeo"]
 	310 -> 312
 	311 [label="class = Osmancik"]
 	310 -> 311
-	299 [label="Major_Axis_Length < 191.3825684"]
+	299 [label="Major_Axis_Length < 190.88581085"]
 	298 -> 299
-	301 [label="Minor_Axis_Length < 78.47179413"]
+	301 [label="Minor_Axis_Length < 78.41925049"]
 	299 -> 301
-	305 [label="Eccentricity < 0.913566053"]
+	305 [label="Eccentricity < 0.91275242"]
 	301 -> 305
 	307 [label="class = Cammeo"]
 	305 -> 307
 	306 [label="class = Osmancik"]
 	305 -> 306
-	302 [label="Eccentricity < 0.913469672"]
+	302 [label="Eccentricity < 0.91289511"]
 	301 -> 302
 	304 [label="class = Cammeo"]
 	302 -> 304
@@ -2513,15 +2513,15 @@ digraph {
 	302 -> 303
 	300 [label="class = Cammeo"]
 	299 -> 300
-	283 [label="Perimeter < 438.5130005"]
+	283 [label="Perimeter < 437.78050235"]
 	282 -> 283
-	291 [label="Major_Axis_Length < 191.7048798"]
+	291 [label="Major_Axis_Length < 189.8878632"]
 	283 -> 291
-	293 [label="Minor_Axis_Length < 72.28141785"]
+	293 [label="Minor_Axis_Length < 71.85129929"]
 	291 -> 293
 	297 [label="class = Cammeo"]
 	293 -> 297
-	294 [label="Eccentricity < 0.93292892"]
+	294 [label="Eccentricity < 0.93046892"]
 	293 -> 294
 	296 [label="class = Cammeo"]
 	294 -> 296
@@ -2529,13 +2529,13 @@ digraph {
 	294 -> 295
 	292 [label="class = Osmancik"]
 	291 -> 292
-	284 [label="Major_Axis_Length < 187.3143921"]
+	284 [label="Major_Axis_Length < 186.1336899"]
 	283 -> 284
 	290 [label="class = Osmancik"]
 	284 -> 290
-	285 [label="Minor_Axis_Length < 75.22785187"]
+	285 [label="Minor_Axis_Length < 74.87775422"]
 	284 -> 285
-	287 [label="Eccentricity < 0.91217041"]
+	287 [label="Eccentricity < 0.90977708"]
 	285 -> 287
 	289 [label="class = Cammeo"]
 	287 -> 289
@@ -2543,39 +2543,39 @@ digraph {
 	287 -> 288
 	286 [label="class = Osmancik"]
 	285 -> 286
-	155 [label="Convex_Area < 11815"]
+	155 [label="Convex_Area < 11813.5"]
 	154 -> 155
-	217 [label="Extent < 0.625338078"]
+	217 [label="Extent < 0.62233642"]
 	155 -> 217
-	247 [label="Area < 11816"]
+	247 [label="Area < 11805.5"]
 	217 -> 247
-	263 [label="Perimeter < 446.1430054"]
+	263 [label="Perimeter < 446.12150575"]
 	247 -> 263
-	269 [label="Major_Axis_Length < 191.4457245"]
+	269 [label="Major_Axis_Length < 191.2613907"]
 	263 -> 269
-	275 [label="Minor_Axis_Length < 81.79428101"]
+	275 [label="Minor_Axis_Length < 81.72708511"]
 	269 -> 275
 	279 [label="class = Cammeo"]
 	275 -> 279
-	276 [label="Eccentricity < 0.906352401"]
+	276 [label="Eccentricity < 0.90613952"]
 	275 -> 276
 	278 [label="class = Cammeo"]
 	276 -> 278
 	277 [label="class = Osmancik"]
 	276 -> 277
-	270 [label="Minor_Axis_Length < 81.78645325"]
+	270 [label="Minor_Axis_Length < 81.68868637"]
 	269 -> 270
 	274 [label="class = Osmancik"]
 	270 -> 274
-	271 [label="Eccentricity < 0.906157434"]
+	271 [label="Eccentricity < 0.90348658"]
 	270 -> 271
 	273 [label="class = Cammeo"]
 	271 -> 273
 	272 [label="class = Osmancik"]
 	271 -> 272
-	264 [label="Major_Axis_Length < 187.6987762"]
+	264 [label="Major_Axis_Length < 187.4209671"]
 	263 -> 264
-	266 [label="Minor_Axis_Length < 81.13324738"]
+	266 [label="Minor_Axis_Length < 81.12773132"]
 	264 -> 266
 	268 [label="class = Cammeo"]
 	266 -> 268
@@ -2583,19 +2583,19 @@ digraph {
 	266 -> 267
 	265 [label="class = Osmancik"]
 	264 -> 265
-	248 [label="Perimeter < 442.3380127"]
+	248 [label="Perimeter < 441.8705139"]
 	247 -> 248
-	254 [label="Major_Axis_Length < 186.6712494"]
+	254 [label="Major_Axis_Length < 186.6294861"]
 	248 -> 254
-	256 [label="Minor_Axis_Length < 80.84287262"]
+	256 [label="Minor_Axis_Length < 80.77566528"]
 	254 -> 256
-	260 [label="Eccentricity < 0.901615262"]
+	260 [label="Eccentricity < 0.90148631"]
 	256 -> 260
 	262 [label="class = Osmancik"]
 	260 -> 262
 	261 [label="class = Cammeo"]
 	260 -> 261
-	257 [label="Eccentricity < 0.905849755"]
+	257 [label="Eccentricity < 0.90506673"]
 	256 -> 257
 	259 [label="class = Cammeo"]
 	257 -> 259
@@ -2603,9 +2603,9 @@ digraph {
 	257 -> 258
 	255 [label="class = Osmancik"]
 	254 -> 255
-	249 [label="Major_Axis_Length < 183.5883179"]
+	249 [label="Major_Axis_Length < 183.319458"]
 	248 -> 249
-	251 [label="Minor_Axis_Length < 81.00479126"]
+	251 [label="Minor_Axis_Length < 80.93783188"]
 	249 -> 251
 	253 [label="class = Osmancik"]
 	251 -> 253
@@ -2613,19 +2613,19 @@ digraph {
 	251 -> 252
 	250 [label="class = Osmancik"]
 	249 -> 250
-	218 [label="Area < 11810"]
+	218 [label="Area < 11792.0"]
 	217 -> 218
-	238 [label="Perimeter < 447.2139893"]
+	238 [label="Perimeter < 446.8105011"]
 	218 -> 238
-	240 [label="Major_Axis_Length < 192.088913"]
+	240 [label="Major_Axis_Length < 191.94659425"]
 	238 -> 240
 	246 [label="class = Cammeo"]
 	240 -> 246
-	241 [label="Minor_Axis_Length < 81.57138062"]
+	241 [label="Minor_Axis_Length < 81.44788742"]
 	240 -> 241
 	245 [label="class = Osmancik"]
 	241 -> 245
-	242 [label="Eccentricity < 0.907290399"]
+	242 [label="Eccentricity < 0.90559784"]
 	241 -> 242
 	244 [label="class = Osmancik"]
 	242 -> 244
@@ -2633,13 +2633,13 @@ digraph {
 	242 -> 243
 	239 [label="class = Osmancik"]
 	238 -> 239
-	219 [label="Perimeter < 444.631012"]
+	219 [label="Perimeter < 443.49050905"]
 	218 -> 219
-	227 [label="Major_Axis_Length < 186.58461"]
+	227 [label="Major_Axis_Length < 186.4666977"]
 	219 -> 227
-	233 [label="Minor_Axis_Length < 80.8497467"]
+	233 [label="Minor_Axis_Length < 80.58324813"]
 	227 -> 233
-	235 [label="Eccentricity < 0.902460873"]
+	235 [label="Eccentricity < 0.90177599"]
 	233 -> 235
 	237 [label="class = Cammeo"]
 	235 -> 237
@@ -2647,21 +2647,21 @@ digraph {
 	235 -> 236
 	234 [label="class = Osmancik"]
 	233 -> 234
-	228 [label="Minor_Axis_Length < 81.7223053"]
+	228 [label="Minor_Axis_Length < 81.69815445"]
 	227 -> 228
 	232 [label="class = Osmancik"]
 	228 -> 232
-	229 [label="Eccentricity < 0.902797401"]
+	229 [label="Eccentricity < 0.9006263"]
 	228 -> 229
 	231 [label="class = Osmancik"]
 	229 -> 231
 	230 [label="class = Cammeo"]
 	229 -> 230
-	220 [label="Major_Axis_Length < 184.3030853"]
+	220 [label="Major_Axis_Length < 184.049736"]
 	219 -> 220
-	222 [label="Minor_Axis_Length < 81.25922394"]
+	222 [label="Minor_Axis_Length < 81.25556946"]
 	220 -> 222
-	224 [label="Eccentricity < 0.900622606"]
+	224 [label="Eccentricity < 0.90021542"]
 	222 -> 224
 	226 [label="class = Cammeo"]
 	224 -> 226
@@ -2671,19 +2671,19 @@ digraph {
 	222 -> 223
 	221 [label="class = Osmancik"]
 	220 -> 221
-	156 [label="Extent < 0.656908035"]
+	156 [label="Extent < 0.65675819"]
 	155 -> 156
-	194 [label="Area < 11391"]
+	194 [label="Area < 11372.0"]
 	156 -> 194
-	208 [label="Perimeter < 433.7049866"]
+	208 [label="Perimeter < 433.52648925"]
 	194 -> 208
 	216 [label="class = Osmancik"]
 	208 -> 216
-	209 [label="Major_Axis_Length < 182.362381"]
+	209 [label="Major_Axis_Length < 182.2381668"]
 	208 -> 209
-	211 [label="Minor_Axis_Length < 80.56020355"]
+	211 [label="Minor_Axis_Length < 80.42014312"]
 	209 -> 211
-	213 [label="Eccentricity < 0.898717105"]
+	213 [label="Eccentricity < 0.89723423"]
 	211 -> 213
 	215 [label="class = Cammeo"]
 	213 -> 215
@@ -2693,13 +2693,13 @@ digraph {
 	211 -> 212
 	210 [label="class = Osmancik"]
 	209 -> 210
-	195 [label="Perimeter < 431.1570129"]
+	195 [label="Perimeter < 431.1405029"]
 	194 -> 195
-	197 [label="Major_Axis_Length < 181.9034424"]
+	197 [label="Major_Axis_Length < 181.7471924"]
 	195 -> 197
-	203 [label="Minor_Axis_Length < 80.06295776"]
+	203 [label="Minor_Axis_Length < 79.82810974"]
 	197 -> 203
-	205 [label="Eccentricity < 0.898046494"]
+	205 [label="Eccentricity < 0.89729294"]
 	203 -> 205
 	207 [label="class = Cammeo"]
 	205 -> 207
@@ -2707,11 +2707,11 @@ digraph {
 	205 -> 206
 	204 [label="class = Osmancik"]
 	203 -> 204
-	198 [label="Minor_Axis_Length < 80.25337982"]
+	198 [label="Minor_Axis_Length < 79.68458176"]
 	197 -> 198
 	202 [label="class = Osmancik"]
 	198 -> 202
-	199 [label="Eccentricity < 0.903943717"]
+	199 [label="Eccentricity < 0.90181801"]
 	198 -> 199
 	201 [label="class = Osmancik"]
 	199 -> 201
@@ -2719,21 +2719,21 @@ digraph {
 	199 -> 200
 	196 [label="class = Osmancik"]
 	195 -> 196
-	157 [label="Area < 11359"]
+	157 [label="Area < 11348.0"]
 	156 -> 157
-	177 [label="Perimeter < 434.7929993"]
+	177 [label="Perimeter < 434.46400455"]
 	157 -> 177
-	185 [label="Major_Axis_Length < 185.1977081"]
+	185 [label="Major_Axis_Length < 184.2200241"]
 	177 -> 185
-	187 [label="Minor_Axis_Length < 79.44548798"]
+	187 [label="Minor_Axis_Length < 79.26361084"]
 	185 -> 187
-	191 [label="Eccentricity < 0.905512214"]
+	191 [label="Eccentricity < 0.90420398"]
 	187 -> 191
 	193 [label="class = Osmancik"]
 	191 -> 193
 	192 [label="class = Cammeo"]
 	191 -> 192
-	188 [label="Eccentricity < 0.904846787"]
+	188 [label="Eccentricity < 0.90467301"]
 	187 -> 188
 	190 [label="class = Osmancik"]
 	188 -> 190
@@ -2741,13 +2741,13 @@ digraph {
 	188 -> 189
 	186 [label="class = Osmancik"]
 	185 -> 186
-	178 [label="Major_Axis_Length < 183.7203064"]
+	178 [label="Major_Axis_Length < 183.5830841"]
 	177 -> 178
-	180 [label="Minor_Axis_Length < 80.16662598"]
+	180 [label="Minor_Axis_Length < 79.89888382"]
 	178 -> 180
 	184 [label="class = Osmancik"]
 	180 -> 184
-	181 [label="Eccentricity < 0.90281558"]
+	181 [label="Eccentricity < 0.9021672"]
 	180 -> 181
 	183 [label="class = Cammeo"]
 	181 -> 183
@@ -2755,13 +2755,13 @@ digraph {
 	181 -> 182
 	179 [label="class = Osmancik"]
 	178 -> 179
-	158 [label="Perimeter < 433.8299866"]
+	158 [label="Perimeter < 433.22099305"]
 	157 -> 158
-	166 [label="Major_Axis_Length < 182.7428589"]
+	166 [label="Major_Axis_Length < 182.40888215"]
 	158 -> 166
-	172 [label="Minor_Axis_Length < 79.25365448"]
+	172 [label="Minor_Axis_Length < 79.06067658"]
 	166 -> 172
-	174 [label="Eccentricity < 0.902940094"]
+	174 [label="Eccentricity < 0.90166387"]
 	172 -> 174
 	176 [label="class = Cammeo"]
 	174 -> 176
@@ -2769,9 +2769,9 @@ digraph {
 	174 -> 175
 	173 [label="class = Osmancik"]
 	172 -> 173
-	167 [label="Minor_Axis_Length < 78.95067596"]
+	167 [label="Minor_Axis_Length < 78.30498886"]
 	166 -> 167
-	169 [label="Eccentricity < 0.901097536"]
+	169 [label="Eccentricity < 0.89959344"]
 	167 -> 169
 	171 [label="class = Cammeo"]
 	169 -> 171
@@ -2779,11 +2779,11 @@ digraph {
 	169 -> 170
 	168 [label="class = Cammeo"]
 	167 -> 168
-	159 [label="Major_Axis_Length < 181.8733215"]
+	159 [label="Major_Axis_Length < 181.8314514"]
 	158 -> 159
-	161 [label="Minor_Axis_Length < 78.21557617"]
+	161 [label="Minor_Axis_Length < 78.05867386"]
 	159 -> 161
-	163 [label="Eccentricity < 0.902994871"]
+	163 [label="Eccentricity < 0.90131795"]
 	161 -> 163
 	165 [label="class = Cammeo"]
 	163 -> 165
@@ -2793,27 +2793,27 @@ digraph {
 	161 -> 162
 	160 [label="class = Osmancik"]
 	159 -> 160
-	80 [label="Minor_Axis_Length < 86.84152985"]
+	80 [label="Minor_Axis_Length < 86.83998108"]
 	79 -> 80
-	124 [label="Eccentricity < 0.86205709"]
+	124 [label="Eccentricity < 0.86203691"]
 	80 -> 124
-	126 [label="Convex_Area < 12353"]
+	126 [label="Convex_Area < 12353.0"]
 	124 -> 126
-	140 [label="Extent < 0.650202692"]
+	140 [label="Extent < 0.64943439"]
 	126 -> 140
-	142 [label="Area < 12249"]
+	142 [label="Area < 12225.5"]
 	140 -> 142
 	152 [label="class = Osmancik"]
 	142 -> 152
-	143 [label="Perimeter < 437.8389893"]
+	143 [label="Perimeter < 437.83099365"]
 	142 -> 143
-	145 [label="Major_Axis_Length < 178.5523834"]
+	145 [label="Major_Axis_Length < 178.29679105"]
 	143 -> 145
-	147 [label="Minor_Axis_Length < 87.93262482"]
+	147 [label="Minor_Axis_Length < 87.66590118"]
 	145 -> 147
 	151 [label="class = Osmancik"]
 	147 -> 151
-	148 [label="Eccentricity < 0.874699593"]
+	148 [label="Eccentricity < 0.87448227"]
 	147 -> 148
 	150 [label="class = Osmancik"]
 	148 -> 150
@@ -2825,21 +2825,21 @@ digraph {
 	143 -> 144
 	141 [label="class = Osmancik"]
 	140 -> 141
-	127 [label="Extent < 0.643820822"]
+	127 [label="Extent < 0.64262691"]
 	126 -> 127
-	129 [label="Area < 11929"]
+	129 [label="Area < 11922.5"]
 	127 -> 129
 	139 [label="class = Osmancik"]
 	129 -> 139
-	130 [label="Perimeter < 432.0589905"]
+	130 [label="Perimeter < 431.94299315"]
 	129 -> 130
-	132 [label="Major_Axis_Length < 175.2770538"]
+	132 [label="Major_Axis_Length < 175.18710325"]
 	130 -> 132
-	134 [label="Minor_Axis_Length < 87.10894012"]
+	134 [label="Minor_Axis_Length < 87.079216"]
 	132 -> 134
 	138 [label="class = Osmancik"]
 	134 -> 138
-	135 [label="Eccentricity < 0.870092988"]
+	135 [label="Eccentricity < 0.86936387"]
 	134 -> 135
 	137 [label="class = Cammeo"]
 	135 -> 137
@@ -2853,25 +2853,25 @@ digraph {
 	127 -> 128
 	125 [label="class = Osmancik"]
 	124 -> 125
-	81 [label="Eccentricity < 0.878881156"]
+	81 [label="Eccentricity < 0.87884226"]
 	80 -> 81
-	83 [label="Convex_Area < 11713"]
+	83 [label="Convex_Area < 11705.5"]
 	81 -> 83
-	85 [label="Extent < 0.657762766"]
+	85 [label="Extent < 0.65756965"]
 	83 -> 85
-	105 [label="Area < 11592"]
+	105 [label="Area < 11584.5"]
 	85 -> 105
-	115 [label="Perimeter < 434.6059875"]
+	115 [label="Perimeter < 434.1674957"]
 	105 -> 115
 	123 [label="class = Osmancik"]
 	115 -> 123
-	116 [label="Major_Axis_Length < 178.5139465"]
+	116 [label="Major_Axis_Length < 178.47989655"]
 	115 -> 116
 	122 [label="class = Osmancik"]
 	116 -> 122
-	117 [label="Minor_Axis_Length < 83.91345215"]
+	117 [label="Minor_Axis_Length < 83.82590103"]
 	116 -> 117
-	119 [label="Eccentricity < 0.882388711"]
+	119 [label="Eccentricity < 0.88115069"]
 	117 -> 119
 	121 [label="class = Osmancik"]
 	119 -> 121
@@ -2879,15 +2879,15 @@ digraph {
 	119 -> 120
 	118 [label="class = Osmancik"]
 	117 -> 118
-	106 [label="Perimeter < 431.7850037"]
+	106 [label="Perimeter < 431.6490021"]
 	105 -> 106
 	114 [label="class = Osmancik"]
 	106 -> 114
-	107 [label="Major_Axis_Length < 178.2637482"]
+	107 [label="Major_Axis_Length < 178.0388565"]
 	106 -> 107
-	109 [label="Minor_Axis_Length < 83.40615845"]
+	109 [label="Minor_Axis_Length < 83.34997559"]
 	107 -> 109
-	111 [label="Eccentricity < 0.884582996"]
+	111 [label="Eccentricity < 0.88389152"]
 	109 -> 111
 	113 [label="class = Cammeo"]
 	111 -> 113
@@ -2897,17 +2897,17 @@ digraph {
 	109 -> 110
 	108 [label="class = Osmancik"]
 	107 -> 108
-	86 [label="Area < 11626"]
+	86 [label="Area < 11624.5"]
 	85 -> 86
-	96 [label="Perimeter < 432.7739868"]
+	96 [label="Perimeter < 432.6694946"]
 	86 -> 96
-	98 [label="Major_Axis_Length < 179.5764771"]
+	98 [label="Major_Axis_Length < 179.1075287"]
 	96 -> 98
 	104 [label="class = Osmancik"]
 	98 -> 104
-	99 [label="Minor_Axis_Length < 84.56312561"]
+	99 [label="Minor_Axis_Length < 84.5551796"]
 	98 -> 99
-	101 [label="Eccentricity < 0.880060077"]
+	101 [label="Eccentricity < 0.87965149"]
 	99 -> 101
 	103 [label="class = Osmancik"]
 	101 -> 103
@@ -2917,13 +2917,13 @@ digraph {
 	99 -> 100
 	97 [label="class = Osmancik"]
 	96 -> 97
-	87 [label="Perimeter < 432.8120117"]
+	87 [label="Perimeter < 432.64500425"]
 	86 -> 87
-	89 [label="Major_Axis_Length < 179.1168823"]
+	89 [label="Major_Axis_Length < 179.0038223"]
 	87 -> 89
-	91 [label="Minor_Axis_Length < 83.7257309"]
+	91 [label="Minor_Axis_Length < 83.53605652"]
 	89 -> 91
-	93 [label="Eccentricity < 0.885047615"]
+	93 [label="Eccentricity < 0.88339385"]
 	91 -> 93
 	95 [label="class = Osmancik"]
 	93 -> 95
@@ -2939,31 +2939,31 @@ digraph {
 	83 -> 84
 	82 [label="class = Osmancik"]
 	81 -> 82
-	2 [label="Major_Axis_Length < 169.1323395"]
+	2 [label="Major_Axis_Length < 169.11408235"]
 	1 -> 2
-	4 [label="Minor_Axis_Length < 81.76659393"]
+	4 [label="Minor_Axis_Length < 81.75531387"]
 	2 -> 4
-	62 [label="Eccentricity < 0.871614993"]
+	62 [label="Eccentricity < 0.87157398"]
 	4 -> 62
-	64 [label="Convex_Area < 11380"]
+	64 [label="Convex_Area < 11376.5"]
 	62 -> 64
 	78 [label="class = Osmancik"]
 	64 -> 78
-	65 [label="Extent < 0.651429236"]
+	65 [label="Extent < 0.65041557"]
 	64 -> 65
 	77 [label="class = Osmancik"]
 	65 -> 77
-	66 [label="Area < 10985"]
+	66 [label="Area < 10974.5"]
 	65 -> 66
-	68 [label="Perimeter < 419.4750061"]
+	68 [label="Perimeter < 419.4390106"]
 	66 -> 68
-	70 [label="Major_Axis_Length < 173.0770569"]
+	70 [label="Major_Axis_Length < 172.8492813"]
 	68 -> 70
-	72 [label="Minor_Axis_Length < 82.35933685"]
+	72 [label="Minor_Axis_Length < 82.33833695"]
 	70 -> 72
 	76 [label="class = Osmancik"]
 	72 -> 76
-	73 [label="Eccentricity < 0.882763028"]
+	73 [label="Eccentricity < 0.8812094"]
 	72 -> 73
 	75 [label="class = Cammeo"]
 	73 -> 75
@@ -2977,27 +2977,27 @@ digraph {
 	66 -> 67
 	63 [label="class = Osmancik"]
 	62 -> 63
-	5 [label="Eccentricity < 0.894017696"]
+	5 [label="Eccentricity < 0.89386129"]
 	4 -> 5
-	39 [label="Convex_Area < 10556"]
+	39 [label="Convex_Area < 10552.0"]
 	5 -> 39
-	41 [label="Extent < 0.629872441"]
+	41 [label="Extent < 0.6248059"]
 	39 -> 41
 	61 [label="class = Osmancik"]
 	41 -> 61
-	42 [label="Area < 10681"]
+	42 [label="Area < 10671.5"]
 	41 -> 42
-	52 [label="Perimeter < 423.7929993"]
+	52 [label="Perimeter < 423.28050235"]
 	42 -> 52
-	54 [label="Major_Axis_Length < 179.8469391"]
+	54 [label="Major_Axis_Length < 179.82405855"]
 	52 -> 54
 	60 [label="class = Osmancik"]
 	54 -> 60
-	55 [label="Minor_Axis_Length < 78.75501251"]
+	55 [label="Minor_Axis_Length < 78.43844605"]
 	54 -> 55
 	59 [label="class = Osmancik"]
 	55 -> 59
-	56 [label="Eccentricity < 0.900995374"]
+	56 [label="Eccentricity < 0.89974067"]
 	55 -> 56
 	58 [label="class = Cammeo"]
 	56 -> 58
@@ -3005,13 +3005,13 @@ digraph {
 	56 -> 57
 	53 [label="class = Osmancik"]
 	52 -> 53
-	43 [label="Perimeter < 417.3569946"]
+	43 [label="Perimeter < 417.1884918"]
 	42 -> 43
-	45 [label="Major_Axis_Length < 177.0643616"]
+	45 [label="Major_Axis_Length < 177.05056765"]
 	43 -> 45
-	47 [label="Minor_Axis_Length < 76.0458374"]
+	47 [label="Minor_Axis_Length < 75.83931351"]
 	45 -> 47
-	49 [label="Eccentricity < 0.904635668"]
+	49 [label="Eccentricity < 0.90392008"]
 	47 -> 49
 	51 [label="class = Cammeo"]
 	49 -> 51
@@ -3025,23 +3025,23 @@ digraph {
 	43 -> 44
 	40 [label="class = Osmancik"]
 	39 -> 40
-	6 [label="Convex_Area < 10957"]
+	6 [label="Convex_Area < 10954.0"]
 	5 -> 6
-	20 [label="Extent < 0.652272344"]
+	20 [label="Extent < 0.65215454"]
 	6 -> 20
 	38 [label="class = Osmancik"]
 	20 -> 38
-	21 [label="Area < 10926"]
+	21 [label="Area < 10918.5"]
 	20 -> 21
-	29 [label="Perimeter < 420.1700134"]
+	29 [label="Perimeter < 420.08250425"]
 	21 -> 29
-	31 [label="Major_Axis_Length < 176.8721313"]
+	31 [label="Major_Axis_Length < 176.56082915"]
 	29 -> 31
-	33 [label="Minor_Axis_Length < 81.11463928"]
+	33 [label="Minor_Axis_Length < 80.43582153"]
 	31 -> 33
 	37 [label="class = Osmancik"]
 	33 -> 37
-	34 [label="Eccentricity < 0.892943561"]
+	34 [label="Eccentricity < 0.89294079"]
 	33 -> 34
 	36 [label="class = Osmancik"]
 	34 -> 36
@@ -3051,35 +3051,35 @@ digraph {
 	31 -> 32
 	30 [label="class = Osmancik"]
 	29 -> 30
-	22 [label="Perimeter < 418.6700134"]
+	22 [label="Perimeter < 418.22550965"]
 	21 -> 22
 	28 [label="class = Osmancik"]
 	22 -> 28
-	23 [label="Major_Axis_Length < 170.9293213"]
+	23 [label="Major_Axis_Length < 170.90377045"]
 	22 -> 23
 	27 [label="class = Osmancik"]
 	23 -> 27
-	24 [label="Minor_Axis_Length < 81.17028809"]
+	24 [label="Minor_Axis_Length < 81.08358765"]
 	23 -> 24
 	26 [label="class = Osmancik"]
 	24 -> 26
 	25 [label="class = Cammeo"]
 	24 -> 25
-	7 [label="Extent < 0.627710819"]
+	7 [label="Extent < 0.62731582"]
 	6 -> 7
-	9 [label="Area < 10604"]
+	9 [label="Area < 10597.0"]
 	7 -> 9
-	11 [label="Perimeter < 412.8389893"]
+	11 [label="Perimeter < 412.3594971"]
 	9 -> 11
 	19 [label="class = Osmancik"]
 	11 -> 19
-	12 [label="Major_Axis_Length < 170.1792297"]
+	12 [label="Major_Axis_Length < 170.12003325"]
 	11 -> 12
-	14 [label="Minor_Axis_Length < 80.28888702"]
+	14 [label="Minor_Axis_Length < 80.06496811"]
 	12 -> 14
 	18 [label="class = Osmancik"]
 	14 -> 18
-	15 [label="Eccentricity < 0.886103153"]
+	15 [label="Eccentricity < 0.88607702"]
 	14 -> 15
 	17 [label="class = Osmancik"]
 	15 -> 17
