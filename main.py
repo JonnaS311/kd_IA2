@@ -15,10 +15,11 @@ def identificador():
 gen = identificador()
 nodos_clase = identificador()
 dot = Digraph(comment='Árbol')
+falsos_positivos = []
 
-def TreeKD(data, column,nodoAct):
+def TreeKD(data, column,nodoAct,direccion):
     # si la instancia ya está clasificada se almacena y retorna
-    if validarInstancia(data,nodoAct):
+    if validarInstancia(data,nodoAct, direccion):
         return 0
     
     name = data.columns[column%7 + 1]
@@ -28,7 +29,11 @@ def TreeKD(data, column,nodoAct):
 
     # valor medio entre las dos separaciones con 8 cifras significativas
     valor = round((order[name].iloc[mitad] + order[name].iloc[mitad-1])/2, 8)
-    nodoAct.value = {name : valor, 'id': next(gen)}
+
+    if direccion is None:
+        nodoAct.value = {name : valor, 'id': next(gen)}
+    else:
+        nodoAct.value = {name : valor, 'id': next(gen), 'dir':direccion}
 
     # Creamos los nodos hijos
     nodoAct.hijoD = Nodo(None,None,None)
@@ -42,21 +47,21 @@ def TreeKD(data, column,nodoAct):
     # Entramos en recursividad
     for i in range(len(divisiones)):
         if i == 0:
-            TreeKD(divisiones[i],column+1,nodoAct.hijoI)
+            TreeKD(divisiones[i],column+1,nodoAct.hijoI, True)
         elif i == 1:
-            TreeKD(divisiones[i],column+1,nodoAct.hijoD)
+            TreeKD(divisiones[i],column+1,nodoAct.hijoD, False)
            
 
-def validarInstancia(df, nodo_Act) -> bool:
+def validarInstancia(df, nodo_Act, direccion) -> bool:
     # validamos si en ese grupo hay una única instancia y a que clase pertenece
     if df['class'].nunique() == 1 and df['class'].iloc[0] == 'Osmancik':
         # añadir clase 'Osmancik' al nodo actual 
-        nodo_Act.value = {'class': 'Osmancik', 'id': next(gen)}
+        nodo_Act.value = {'class': 'Osmancik', 'id': next(gen), 'dir':direccion}
         clasificados.append(df)
         return True
     elif  df['class'].nunique() == 1 and df['class'].iloc[0] == 'Cammeo': 
          # añadir clase 'Cammeo' al nodo actual 
-        nodo_Act.value = {'class': 'Cammeo', 'id': next(gen)}
+        nodo_Act.value = {'class': 'Cammeo', 'id': next(gen), 'dir':direccion}
         clasificados.append(df)
         return True
     else:
@@ -84,11 +89,11 @@ def graficar(node,parentNode,isGraficable):
         dot.edges([ (str(parentNode.value['id']), str(node.value['id'])) ])
 
     try:
-        graficar(node.hijoD, node, False)
+        graficar(node.hijoI, node, False)
     except:
         pass
     try:
-        graficar(node.hijoI, node, False)
+        graficar(node.hijoD, node, False)
     except:
         pass
 
@@ -112,10 +117,10 @@ def encontrar_caminos(raiz):
         else:
             # Si tiene hijos, seguimos recorriendo los hijos
             if nodo.hijoD is not None:
-                dfs(nodo.hijoD, camino_actual)
+                dfs(nodo.hijoI, camino_actual)
                 pass
             if nodo.hijoI is not None:
-                dfs(nodo.hijoI, camino_actual)
+                dfs(nodo.hijoD, camino_actual)
                 pass
         
         # Al terminar de explorar este nodo, lo eliminamos del camino actual (backtracking)
@@ -126,19 +131,72 @@ def encontrar_caminos(raiz):
     
     return caminos
 
+def crearReglasTxt(reglas, data):
+    # Crear y escribir en un archivo
+    with open("reglas.txt", "w") as archivo:
+        for regla in reglas:
+            siguiente = regla[-1]['dir']
+            archivo.write("\n SI: \n")
+            for condicion in reversed(regla):
+                if list(condicion.keys())[0] != 'class':
+                    if siguiente:
+                        archivo.write("\t"+list(condicion.keys())[0]+" < ")
+                    else:
+                        archivo.write("\t"+list(condicion.keys())[0]+" > ")
+                    archivo.write(str( condicion[list(condicion.keys())[0]] )+"\n")
+                    try:
+                        siguiente = condicion['dir']
+                    except:
+                        pass
+            archivo.write("ENTONCES: \n")
+            archivo.write("\tclase: ")
+            archivo.write(regla[-1]['class']+"\n")
+            archivo.write("\n")
+
+        # Prueba de reescritura
+        archivo.write("\n")
+        archivo.write("-------------- RESULTADO PRUEBA DE REESCRITURA --------------\n")
+        archivo.write("\tAccuracy: "+str(iterar(nodo,data))+"\n")
+
+        archivo.write("\tInformacion de los elementos mal clasificados: \n \t"+
+                      str(falsos_positivos).replace(" ","").replace("\n"," | ").replace(",","\n \t"))
+
+def iterar(nodo,df):
+    def reescritura(raiz, df):
+        if list(raiz.value.keys())[0] == 'class':
+            if (raiz.value['class'] != df['class']):
+                print(raiz.value['class'] + ":" + df['class'])
+                falsos_positivos.append(df)
+                return 0
+                
+        
+        if df[list(raiz.value.keys())[0]] <= raiz.value[list(raiz.value.keys())[0]]:
+            try:
+                reescritura(raiz.hijoI, df)
+            except:
+                pass
+        else:
+            try:
+                reescritura(raiz.hijoD, df)
+            except:
+                pass
+    for index, row in df.iterrows():
+        reescritura(nodo,row)
+    print(falsos_positivos)
+    return 1 - len(falsos_positivos)/len(df)
+
 def main():
     '''
     https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik
     Link del set de Datos
     '''
     data = pd.read_csv('./datos.csv')
-    #data = data.iloc[:1632]
-    TreeKD(data,0,nodo)
-    #graficar(nodo, None, True)
+    TreeKD(data,0,nodo,None)
+    graficar(nodo, None, True)
     #print(f'cantidad de nodos clase: {next(nodos_clase)}')
     reglas = encontrar_caminos(nodo)
-    reglas
-
+    crearReglasTxt(reglas, data)
+    
 
 if __name__ == '__main__':
     main()
