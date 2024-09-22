@@ -3093,4 +3093,7 @@ digraph {
 	1517 -> 1545
 	1546 [label="class = Cammeo"]
 	1424 -> 1546
+	fontsize=15 label="Convenciones: 
+Izquierda = True
+Derecha = False" labeljust=l labelloc=t
 }

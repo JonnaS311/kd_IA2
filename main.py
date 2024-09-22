@@ -98,6 +98,11 @@ def graficar(node,parentNode,isGraficable):
         pass
 
     if isGraficable:
+        # Añadir un label para la convención en la esquina inferior derecha
+        dot.attr(label='Convenciones: \nIzquierda = True\nDerecha = False', 
+         labelloc='t',  # 't' para parte superior, 'b' para inferior
+         labeljust='l', # 'l' para alinear a la izquierda, 'r' para la derecha
+         fontsize='15')
         # Guardar el gráfico en formato PNG
         dot.format = 'svg'  # Especificar el formato PNG
         dot.render('arbol_grafico', view=True)  # Guarda el archivo como 'arbol_grafico.png' y lo muestra
